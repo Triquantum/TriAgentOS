@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "tasks": [
+    { "id": "code-python",     "category": "code",      "name": "Python Function",        "difficulty": "easy",   "maxScore": 100 },
+    { "id": "reasoning",       "category": "reasoning", "name": "Logic Puzzle",           "difficulty": "medium", "maxScore": 100 },
+    { "id": "creative",        "category": "creative",  "name": "Product Copywriting",    "difficulty": "easy",   "maxScore": 100 },
+    { "id": "instruction",     "category": "quality",   "name": "Format Compliance",      "difficulty": "easy",   "maxScore": 100 },
+    { "id": "conciseness",     "category": "quality",   "name": "Concise Explanation",    "difficulty": "easy",   "maxScore": 100 },
+    { "id": "compression",     "category": "quality",   "name": "Token Compression",      "difficulty": "medium", "maxScore": 100 },
+    { "id": "multilingual",    "category": "language",  "name": "Multilingual Translation","difficulty": "medium", "maxScore": 100 },
+    { "id": "math-reasoning",  "category": "reasoning", "name": "Mathematical Reasoning", "difficulty": "hard",   "maxScore": 100 }
+  ]
+}

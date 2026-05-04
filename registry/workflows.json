@@ -1,0 +1,7 @@
+[
+  { "id": "research-and-write",  "name": "Research & Write",      "steps": ["research","write","improve"],                  "description": "Research topic then produce polished content" },
+  { "id": "code-review-fix",     "name": "Code Review & Fix",     "steps": ["review","fix","test"],                          "description": "Review code, fix issues, write tests" },
+  { "id": "startup-analysis",    "name": "Startup Analysis",      "steps": ["market","model","risks","verdict"],             "description": "Full startup viability analysis" },
+  { "id": "security-pipeline",   "name": "Security Pipeline",     "steps": ["secrets","sast","iac","report"],               "description": "Full security scan pipeline" },
+  { "id": "content-pipeline",    "name": "Content Pipeline",      "steps": ["research","draft","edit","seo"],               "description": "End-to-end content creation" }
+]

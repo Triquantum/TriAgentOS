@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "rules": [
+    { "id": "no-hardcoded-secrets", "severity": "critical", "description": "No hardcoded API keys or passwords", "cwe": "CWE-798" },
+    { "id": "no-eval",              "severity": "critical", "description": "No use of eval()", "cwe": "CWE-95" },
+    { "id": "no-shell-injection",   "severity": "critical", "description": "Sanitize all shell command inputs", "cwe": "CWE-78" },
+    { "id": "no-sql-injection",     "severity": "critical", "description": "Use parameterized queries", "cwe": "CWE-89" },
+    { "id": "no-xss",               "severity": "high",     "description": "Sanitize all HTML output", "cwe": "CWE-79" },
+    { "id": "pin-dependencies",     "severity": "medium",   "description": "Pin all dependency versions", "cwe": "CWE-829" },
+    { "id": "pin-gh-actions",       "severity": "high",     "description": "Pin GitHub Actions to commit SHA", "cwe": "CWE-829" },
+    { "id": "no-root-container",    "severity": "high",     "description": "Containers must not run as root", "cwe": "CWE-250" }
+  ]
+}

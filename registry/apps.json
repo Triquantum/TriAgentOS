@@ -1,0 +1,11 @@
+[
+  { "id": "startup-builder",  "name": "Startup Builder",   "emoji": "🚀", "category": "business",  "description": "Full startup launch kit from a single idea" },
+  { "id": "ai-research-lab",  "name": "AI Research Lab",   "emoji": "🔬", "category": "research",  "description": "Deep research with multi-agent perspectives" },
+  { "id": "coding-team",      "name": "Coding Team",       "emoji": "💻", "category": "code",      "description": "Architect + developer + QA + security review" },
+  { "id": "content-studio",   "name": "Content Studio",    "emoji": "✍️", "category": "marketing", "description": "Research → write → edit → SEO pipeline" },
+  { "id": "security-auditor", "name": "Security Auditor",  "emoji": "🔐", "category": "security",  "description": "Full security audit with TriSecure" },
+  { "id": "competitor-radar", "name": "Competitor Radar",  "emoji": "📡", "category": "business",  "description": "Competitive intelligence and opportunity mapping" },
+  { "id": "sales-agent",      "name": "Sales Agent",       "emoji": "💼", "category": "sales",     "description": "Sales materials, objection handling, outreach" },
+  { "id": "money-mode-lite",  "name": "Money Mode Lite",   "emoji": "💰", "category": "business",  "description": "Personalized AI monetization roadmap" },
+  { "id": "company-builder",  "name": "Company Builder",   "emoji": "🏗️", "category": "business",  "description": "Full company OS: CEO + CTO + CFO + Marketing" }
+]

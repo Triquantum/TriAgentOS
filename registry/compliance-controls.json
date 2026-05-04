@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "frameworks": {
+    "OWASP-Top10-2021": [
+      { "id": "A01", "name": "Broken Access Control",    "check": "Review authorization on all routes" },
+      { "id": "A02", "name": "Cryptographic Failures",   "check": "Ensure data at rest/transit is encrypted" },
+      { "id": "A03", "name": "Injection",                "check": "Parameterize all queries and commands" },
+      { "id": "A04", "name": "Insecure Design",          "check": "Threat model during design phase" },
+      { "id": "A05", "name": "Security Misconfiguration","check": "Audit all configs and defaults" },
+      { "id": "A06", "name": "Vulnerable Components",    "check": "Run npm audit, check CVEs" },
+      { "id": "A07", "name": "Auth Failures",            "check": "Implement MFA, session management" },
+      { "id": "A08", "name": "Software/Data Integrity",  "check": "Verify supply chain integrity" },
+      { "id": "A09", "name": "Logging/Monitoring Failures","check": "Implement audit logging" },
+      { "id": "A10", "name": "Server-Side Request Forgery","check": "Validate all external requests" }
+    ]
+  }
+}

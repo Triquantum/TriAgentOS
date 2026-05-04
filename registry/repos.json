@@ -1,0 +1,25 @@
+{
+  "lastUpdated": "2025-05-04T00:00:00.000Z",
+  "totalFound": 50,
+  "note": "Run 'tri discover' or 'npm run discover' to refresh with live GitHub data",
+  "top50": [
+    { "name": "n8n-io/n8n",            "url": "https://github.com/n8n-io/n8n",            "stars": 150000, "category": "orchestration",  "score": 99, "description": "AI-native workflow automation — 400+ integrations, self-hostable" },
+    { "name": "ollama/ollama",          "url": "https://github.com/ollama/ollama",          "stars": 162000, "category": "local-models",   "score": 99, "description": "Run Llama, Mistral, Gemma locally. Dead simple CLI." },
+    { "name": "open-webui/open-webui",  "url": "https://github.com/open-webui/open-webui",  "stars": 124000, "category": "local-models",   "score": 98, "description": "Self-hosted ChatGPT-style UI for local models. 282M+ downloads" },
+    { "name": "langgenius/dify",        "url": "https://github.com/langgenius/dify",        "stars": 114000, "category": "orchestration",  "score": 98, "description": "LLM app development platform with RAG, agents, and monitoring" },
+    { "name": "langchain-ai/langchain", "url": "https://github.com/langchain-ai/langchain", "stars": 112000, "category": "general",        "score": 97, "description": "Framework for building LLM-powered applications" },
+    { "name": "infiniflow/ragflow",     "url": "https://github.com/infiniflow/ragflow",     "stars": 70000,  "category": "rag",            "score": 95, "description": "Open-source RAG engine with deep document understanding" },
+    { "name": "crewAIInc/crewAI",      "url": "https://github.com/crewAIInc/crewAI",      "stars": 49000,  "category": "multi-agent",    "score": 93, "description": "Role-playing multi-agent framework for autonomous AI orchestration" },
+    { "name": "microsoft/autogen",      "url": "https://github.com/microsoft/autogen",      "stars": 48000,  "category": "multi-agent",    "score": 92, "description": "Multi-agent conversation framework from Microsoft Research" },
+    { "name": "BerriAI/litellm",        "url": "https://github.com/BerriAI/litellm",        "stars": 50000,  "category": "general",        "score": 92, "description": "Unified API for 100+ LLM providers. Drop-in OpenAI replacement" },
+    { "name": "FlowiseAI/Flowise",      "url": "https://github.com/FlowiseAI/Flowise",      "stars": 42000,  "category": "orchestration",  "score": 91, "description": "Drag-and-drop UI to build LLM apps and agent flows" },
+    { "name": "langflow-ai/langflow",   "url": "https://github.com/langflow-ai/langflow",   "stars": 42000,  "category": "orchestration",  "score": 91, "description": "Visual drag-and-drop builder for LLM agent workflows" },
+    { "name": "run-llama/llama_index",  "url": "https://github.com/run-llama/llama_index",  "stars": 43000,  "category": "rag",            "score": 91, "description": "Data framework for connecting LLMs to external knowledge" },
+    { "name": "mem0ai/mem0",            "url": "https://github.com/mem0ai/mem0",            "stars": 37000,  "category": "memory",         "score": 90, "description": "Intelligent memory layer for persistent agent context" },
+    { "name": "lobehub/lobe-chat",      "url": "https://github.com/lobehub/lobe-chat",      "stars": 63000,  "category": "general",        "score": 90, "description": "Modern open-source LLM chat UI with plugins and multi-modal" },
+    { "name": "mastra-ai/mastra",       "url": "https://github.com/mastra-ai/mastra",       "stars": 20000,  "category": "coding",         "score": 87, "description": "TypeScript AI agent framework with observability" },
+    { "name": "All-Hands-AI/OpenHands", "url": "https://github.com/All-Hands-AI/OpenHands", "stars": 40000,  "category": "coding",         "score": 89, "description": "Open-source Devin alternative: autonomous software engineer" },
+    { "name": "gitleaks/gitleaks",      "url": "https://github.com/gitleaks/gitleaks",      "stars": 18000,  "category": "security",       "score": 82, "description": "Detect secrets and credentials in git repositories" },
+    { "name": "aquasecurity/trivy",     "url": "https://github.com/aquasecurity/trivy",     "stars": 23000,  "category": "security",       "score": 84, "description": "Comprehensive container and code vulnerability scanner" }
+  ]
+}

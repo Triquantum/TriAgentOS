@@ -1,0 +1,7 @@
+[
+  { "id": "tri-notion",    "name": "TriNotion",    "version": "0.1.0", "type": "integration", "description": "Notion integration — read/write pages and databases" },
+  { "id": "tri-github",    "name": "TriGitHub",    "version": "0.2.0", "type": "integration", "description": "GitHub tool — PRs, issues, code search" },
+  { "id": "tri-slack",     "name": "TriSlack",     "version": "0.1.0", "type": "integration", "description": "Slack integration — send messages, search" },
+  { "id": "tri-translate", "name": "TriTranslate", "version": "0.1.0", "type": "command",     "description": "Translate text to any language using AI" },
+  { "id": "tri-legal",     "name": "TriLegal",     "version": "0.1.0", "type": "agent",       "description": "Legal document analysis and contract review" }
+]

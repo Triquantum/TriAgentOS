@@ -1,0 +1,17 @@
+[
+  { "id": "coding/code-review",   "name": "Code Review",          "category": "coding",     "version": "1.0.0", "description": "Deep code review for bugs, security, and quality" },
+  { "id": "coding/generate-tests","name": "Generate Unit Tests",  "category": "coding",     "version": "1.0.0", "description": "Auto-generate unit tests for any function or file" },
+  { "id": "coding/explain-code",  "name": "Explain Code",         "category": "coding",     "version": "1.0.0", "description": "Plain-English explanation of any code" },
+  { "id": "coding/refactor",      "name": "Refactor Code",        "category": "coding",     "version": "1.0.0", "description": "Intelligent code refactoring with best practices" },
+  { "id": "research/market",      "name": "Market Research",      "category": "research",   "version": "1.0.0", "description": "Competitive market analysis and sizing" },
+  { "id": "research/literature",  "name": "Literature Review",    "category": "research",   "version": "1.0.0", "description": "Synthesize research papers and sources" },
+  { "id": "business/pitch-deck",  "name": "Pitch Deck Writer",    "category": "business",   "version": "1.0.0", "description": "Write investor pitch deck sections" },
+  { "id": "business/biz-model",   "name": "Business Model",       "category": "business",   "version": "1.0.0", "description": "Design and validate business models" },
+  { "id": "marketing/seo",        "name": "SEO Optimizer",        "category": "marketing",  "version": "1.0.0", "description": "SEO-optimize content for search engines" },
+  { "id": "marketing/copy",       "name": "Copywriting",          "category": "marketing",  "version": "1.0.0", "description": "High-converting marketing copy" },
+  { "id": "security/audit",       "name": "Security Audit",       "category": "security",   "version": "1.0.0", "description": "Security code audit and vulnerability assessment" },
+  { "id": "security/threat-model","name": "Threat Modeling",      "category": "security",   "version": "1.0.0", "description": "STRIDE-based threat modeling" },
+  { "id": "finance/valuation",    "name": "Startup Valuation",    "category": "finance",    "version": "1.0.0", "description": "Estimate startup valuation with multiple methods" },
+  { "id": "automation/workflow",  "name": "Workflow Automation",  "category": "automation", "version": "1.0.0", "description": "Design and implement automated workflows" },
+  { "id": "compliance/gdpr",      "name": "GDPR Compliance",      "category": "compliance", "version": "1.0.0", "description": "GDPR compliance checklist and gap analysis" }
+]

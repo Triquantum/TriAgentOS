@@ -1,0 +1,10 @@
+[
+  { "id": "ceo",       "name": "CEO Agent",             "emoji": "🎯", "role": "Chief Executive Officer",    "capabilities": ["strategy","fundraising","vision","market","product-market-fit"] },
+  { "id": "cto",       "name": "CTO Agent",             "emoji": "🔧", "role": "Chief Technology Officer",   "capabilities": ["architecture","code-review","tech-stack","scalability","devops"] },
+  { "id": "cfo",       "name": "CFO Agent",             "emoji": "💰", "role": "Chief Financial Officer",    "capabilities": ["unit-economics","burn-rate","roi","fundraising","financial-modeling"] },
+  { "id": "designer",  "name": "UX/UI Designer Agent",  "emoji": "🎨", "role": "Senior Product Designer",    "capabilities": ["ux","ui","design-systems","accessibility","user-research"] },
+  { "id": "marketer",  "name": "Growth Marketer Agent", "emoji": "📈", "role": "VP Growth & Marketing",      "capabilities": ["seo","content","paid-ads","growth-loops","cac-ltv"] },
+  { "id": "researcher","name": "Research Agent",         "emoji": "🔬", "role": "Senior Research Analyst",    "capabilities": ["market-research","competitive-intelligence","data-synthesis"] },
+  { "id": "qa",        "name": "QA Engineer Agent",     "emoji": "🧪", "role": "Senior QA Engineer",         "capabilities": ["test-planning","edge-cases","automation","quality-metrics"] },
+  { "id": "security",  "name": "Security Auditor Agent","emoji": "🔐", "role": "Senior Security Engineer",   "capabilities": ["owasp","pen-testing","threat-modeling","compliance"] }
+]

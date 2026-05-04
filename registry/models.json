@@ -1,0 +1,78 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-05-03",
+  "models": [
+    {
+      "id": "claude-opus-4-5",
+      "provider": "anthropic",
+      "contextWindow": 200000,
+      "strengths": ["reasoning", "code", "analysis", "creative"],
+      "pricing": { "input": 15, "output": 75, "unit": "per_1M_tokens" },
+      "tier": "frontier"
+    },
+    {
+      "id": "claude-sonnet-4-5",
+      "provider": "anthropic",
+      "contextWindow": 200000,
+      "strengths": ["code", "analysis", "balanced"],
+      "pricing": { "input": 3, "output": 15, "unit": "per_1M_tokens" },
+      "tier": "balanced"
+    },
+    {
+      "id": "claude-haiku-4-5",
+      "provider": "anthropic",
+      "contextWindow": 200000,
+      "strengths": ["fast", "cheap", "simple-tasks"],
+      "pricing": { "input": 0.25, "output": 1.25, "unit": "per_1M_tokens" },
+      "tier": "fast"
+    },
+    {
+      "id": "gpt-4o",
+      "provider": "openai",
+      "contextWindow": 128000,
+      "strengths": ["vision", "code", "reasoning", "function-calling"],
+      "pricing": { "input": 5, "output": 15, "unit": "per_1M_tokens" },
+      "tier": "frontier"
+    },
+    {
+      "id": "gpt-4o-mini",
+      "provider": "openai",
+      "contextWindow": 128000,
+      "strengths": ["fast", "cheap", "simple-tasks"],
+      "pricing": { "input": 0.15, "output": 0.60, "unit": "per_1M_tokens" },
+      "tier": "fast"
+    },
+    {
+      "id": "gemini-1.5-pro",
+      "provider": "gemini",
+      "contextWindow": 1000000,
+      "strengths": ["long-context", "multimodal", "analysis"],
+      "pricing": { "input": 3.5, "output": 10.5, "unit": "per_1M_tokens" },
+      "tier": "frontier"
+    },
+    {
+      "id": "gemini-1.5-flash",
+      "provider": "gemini",
+      "contextWindow": 1000000,
+      "strengths": ["fast", "cheap", "long-context"],
+      "pricing": { "input": 0.075, "output": 0.30, "unit": "per_1M_tokens" },
+      "tier": "fast"
+    },
+    {
+      "id": "llama-3.1-70b-versatile",
+      "provider": "groq",
+      "contextWindow": 131072,
+      "strengths": ["fast", "open-source", "general"],
+      "pricing": { "input": 0.59, "output": 0.79, "unit": "per_1M_tokens" },
+      "tier": "balanced"
+    },
+    {
+      "id": "llama3",
+      "provider": "ollama",
+      "contextWindow": 8192,
+      "strengths": ["private", "offline", "free"],
+      "pricing": { "input": 0, "output": 0, "unit": "per_1M_tokens" },
+      "tier": "local"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Exclude from npm install
+.github/
+docs/
+website/
+benchmarks/coding/
+university/
+tools/readme-generator/
+.env.example
+upload.sh
+CONTRIBUTING.md
+ROADMAP.md
+CHANGELOG.md
+*.test.js
+*.spec.js

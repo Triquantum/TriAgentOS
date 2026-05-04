@@ -618,9 +618,80 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily by our GitHub Action scanning the AI ecosystem*
+*Auto-updated daily by our GitHub Action · Last scan: **2026-05-04** · Tracking **4.3M+ AI repos** on GitHub*
 
-> Run `tri discover` or `npm run discover` to populate this section
+> Run `tri discover` or `npm run discover` to refresh this section
+
+---
+
+### 🏆 Top AI Agent Repos Right Now
+
+| Rank | Repository | Stars | What it does |
+|------|-----------|-------|-------------|
+| 🥇 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 112k | Framework for building LLM-powered applications with composable chains |
+| 🥈 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 150k | AI-native workflow automation — 400+ integrations, self-hostable |
+| 🥉 3 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | ⭐ 63k | Modern open-source ChatGPT/LLM UI with plugins and multi-modal support |
+| 4 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐ 43k | Data framework for connecting LLMs to external knowledge sources |
+| 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ⭐ 42k | Visual drag-and-drop builder for LLM agent workflows |
+| 6 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 49k | Role-playing multi-agent framework for autonomous AI orchestration |
+| 7 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 70k | Open-source RAG engine with deep document understanding + agentic tools |
+| 8 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 48k | Multi-agent conversation framework — build next-gen LLM applications |
+| 9 | [getmaxun/maxun](https://github.com/getmaxun/maxun) | ⭐ 25k | No-code platform to turn websites into APIs and data pipelines |
+| 10 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | ⭐ 20k | TypeScript AI agent framework with assistants, RAG, and observability |
+
+---
+
+### 📂 Trending by Category
+
+**🐝 Multi-Agent Frameworks**
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐49k — Role-playing autonomous agents with task delegation and memory
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐48k — Conversational multi-agent apps from Microsoft Research
+- [**OpenBMB/AgentVerse**](https://github.com/OpenBMB/AgentVerse) — Multi-LLM agent environments for task-solving and simulation
+
+**⚡ Workflow Orchestration**
+- [**n8n-io/n8n**](https://github.com/n8n-io/n8n) ⭐150k — The most starred AI workflow tool. 400+ integrations, self-hosted
+- [**langflow-ai/langflow**](https://github.com/langflow-ai/langflow) ⭐42k — Visual LLM workflow builder built on LangChain
+- [**logspace-ai/flowise**](https://github.com/FlowiseAI/Flowise) ⭐42k — Drag-and-drop UI to build LLM apps and agent flows
+
+**🔍 RAG & Memory**
+- [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) ⭐70k — Deep-document RAG engine. Fastest growing in GitHub Octoverse 2025
+- [**run-llama/llama_index**](https://github.com/run-llama/llama_index) ⭐43k — Connect LLMs to any data source with 50+ integrations
+- [**mem0ai/mem0**](https://github.com/mem0ai/mem0) ⭐37k — Intelligent memory layer: persistent context across agent sessions
+
+**🖥️ Local Models (Run Offline)**
+- [**ollama/ollama**](https://github.com/ollama/ollama) ⭐162k — Run Llama, Mistral, Gemma locally. Dead simple CLI. #1 local AI tool
+- [**llm-cpp-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) — C/C++ inference for CPU, GPU, Apple Silicon. The engine under Ollama
+- [**open-webui/open-webui**](https://github.com/open-webui/open-webui) ⭐124k — Beautiful self-hosted ChatGPT-style UI for local models. 282M+ downloads
+
+**💻 AI Coding Agents**
+- [**OpenHands AI**](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative. Code Less, Make More
+- [**PraisonAI/PraisonAI**](https://github.com/MervinPraison/PraisonAI) — Production multi-agent framework: 100+ LLMs, MCP, 5-line deploy
+- [**mastra-ai/mastra**](https://github.com/mastra-ai/mastra) ⭐20k — TypeScript agent framework with built-in observability
+
+**🧠 LLM Infrastructure**
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐112k — The most used LLM framework. 6M+ downloads/month
+- [**BerriAI/litellm**](https://github.com/BerriAI/litellm) ⭐50k — Unified API for 100+ LLM providers. Drop-in OpenAI replacement
+- [**dify-ai/dify**](https://github.com/langgenius/dify) ⭐114k — LLM app development platform. RAG + agents + monitoring
+
+**🔐 AI Security**
+- [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks) — Detect secrets in git repos. Used by Fortune 500s
+- [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) — Container and code vulnerability scanner
+- [**bridgecrewio/checkov**](https://github.com/bridgecrewio/checkov) — IaC security scanner for Terraform, Dockerfile, K8s
+
+---
+
+### 📈 Ecosystem Stats *(as of 2026-05-04)*
+
+| Metric | Count |
+|--------|-------|
+| AI repos on GitHub | 4.3M+ |
+| YoY growth in LLM projects | 178% |
+| Repos tracked by TriAgentOS | 50+ |
+| New repos discovered today | auto-updated |
+
+---
+
+> 💡 **See something missing?** [Open a PR](https://github.com/Triquantum/TriAgentOS/pulls) to add a repo to our scanner queries in `tools/github-scanner/discover.js`
 
 <!-- TRIAGENTOS_DAILY_DISCOVERY_END -->
 
