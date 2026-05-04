@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    - cron: '0 2 * * 1'  # Weekly Monday 2am UTC
+    - cron: '0 2 * * 1'
 
 jobs:
   trisecure:
@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # No cache here — avoids lock file requirement
 
       - name: Install dependencies
         run: npm install --ignore-scripts
