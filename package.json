@@ -1,7 +1,7 @@
 {
   "name": "triagentos",
   "version": "1.0.0",
-  "description": "TriAgentOS Community Edition — The Open Source AI Operating System by Triquantum Intelligent Systems Pvt Ltd",
+  "description": "TriAgentOS Community Edition \u2014 The Open Source AI Operating System by Triquantum Intelligent Systems Pvt Ltd",
   "type": "module",
   "bin": {
     "tri": "./cli/bin/tri.js"
@@ -18,8 +18,7 @@
     "security:sast": "node cli/bin/tri.js secure sast",
     "security:iac": "node cli/bin/tri.js secure iac",
     "security:report": "node cli/bin/tri.js secure report",
-    "boot": "node cli/bin/tri.js boot",
-    "postinstall": "node cli/bin/setup.js"
+    "boot": "node cli/bin/tri.js boot"
   },
   "keywords": [
     "ai",
