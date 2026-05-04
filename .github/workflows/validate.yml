@@ -20,7 +20,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          # No cache — avoids lock file requirement on first run
 
       - name: Install dependencies
         run: npm install --ignore-scripts
