@@ -20,18 +20,24 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: npm
+          # No cache — avoids lock file requirement on first run
 
       - name: Install dependencies
-        run: npm ci --ignore-scripts
+        run: npm install --ignore-scripts
 
       - name: Validate registries
-        run: npm run validate
+        run: node tools/score-engine/validate-registry.js
 
-      - name: Smoke test CLI
+      - name: Smoke test — version
         run: node cli/bin/tri.js --version
 
-      - name: Test boot command
+      - name: Smoke test — boot
         run: node cli/bin/tri.js boot --json
         env:
           CI: true
+
+      - name: Smoke test — app list
+        run: node cli/bin/tri.js app list
+
+      - name: Smoke test — skill list
+        run: node cli/bin/tri.js skill list
