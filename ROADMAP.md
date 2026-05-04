@@ -1,95 +1,134 @@
-// core/triswarm/index.js — TriAgentOS TriSwarm Engine
-// Multi-agent orchestration: debate, consensus, chain-of-command
-import { callModel } from '../../models/adapters/index.js';
-import { TriRouter } from '../router/index.js';
+# TriAgentOS Roadmap — Path to 10K Stars 🌟
 
-const AGENT_PROFILES = {
-  ceo:      { emoji: '🎯', role: 'CEO',              system: 'You are a visionary CEO. Give strategic, decisive leadership perspective. Focus on market, vision, team, and execution.' },
-  cto:      { emoji: '🔧', role: 'CTO',              system: 'You are a senior CTO. Give technical architecture, scalability, and engineering excellence perspective.' },
-  cfo:      { emoji: '💰', role: 'CFO',              system: 'You are a CFO. Focus on financial sustainability, unit economics, burn rate, ROI, and fiscal responsibility.' },
-  designer: { emoji: '🎨', role: 'Designer',         system: 'You are a senior UX/Product Designer. Focus on user experience, design systems, accessibility, and product delight.' },
-  marketer: { emoji: '📈', role: 'Growth Marketer',  system: 'You are a data-driven growth marketer. Focus on CAC, LTV, growth loops, channels, and measurable ROI.' },
-  researcher:{ emoji:'🔬', role: 'Researcher',       system: 'You are a research analyst. Provide evidence-based insights, market data, and competitive intelligence.' },
-  qa:       { emoji: '🧪', role: 'QA Engineer',      system: 'You are a QA engineer. Identify edge cases, failure modes, quality risks, and testing strategies.' },
-  security: { emoji: '🔐', role: 'Security Auditor', system: 'You are a security architect. Identify vulnerabilities, threat models, and security best practices.' }
-};
+> This is a living document. Community votes and PRs shape priorities.
 
-export async function runSwarm(mission, agentKeys, mode = 'parallel', opts = {}) {
-  const agents = agentKeys.map(k => {
-    const profile = AGENT_PROFILES[k];
-    if (!profile) throw new Error(`Unknown agent: ${k}. Available: ${Object.keys(AGENT_PROFILES).join(', ')}`);
-    return { key: k, ...profile };
-  });
+---
 
-  if (mode === 'parallel')         return _runParallel(mission, agents, opts);
-  if (mode === 'debate')           return _runDebate(mission, agents, opts);
-  if (mode === 'consensus')        return _runConsensus(mission, agents, opts);
-  if (mode === 'chain-of-command') return _runChain(mission, agents, opts);
-  throw new Error(`Unknown swarm mode: ${mode}. Use: parallel | debate | consensus | chain-of-command`);
-}
+## Current Status: v1.0.0 — Foundation ✅
 
-async function _runParallel(mission, agents, opts) {
-  const route = TriRouter.route(mission, opts);
-  const results = await Promise.allSettled(agents.map(agent =>
-    callModel(route.provider, { messages: [{ role: 'user', content: mission }], system: agent.system, model: route.model, maxTokens: 1024, temperature: 0.7 })
-      .then(r => ({ agent, content: r.content, provider: route.provider, model: route.model }))
-  ));
-  return results.map((r, i) => ({
-    agent: agents[i], success: r.status === 'fulfilled',
-    content: r.status === 'fulfilled' ? r.value.content : null,
-    error: r.status === 'rejected' ? r.reason?.message : null
-  }));
-}
+- [x] Universal CLI (`tri ask`, `tri compare`, `tri agent`, `tri swarm`)
+- [x] 5 provider adapters (Anthropic, OpenAI, Gemini, Groq, Ollama)
+- [x] Smart model router (task classification → optimal model)
+- [x] 10 expert agents with persistent memory
+- [x] Swarm orchestration (parallel, sequential, debate modes)
+- [x] Startup Factory (7-section launch kit)
+- [x] Money Mode (personalized AI income roadmap)
+- [x] Token cost optimizer
+- [x] Daily AI ecosystem discovery (GitHub Action)
 
-async function _runDebate(mission, agents, opts) {
-  const route     = TriRouter.route(mission, opts);
-  const transcript = [];
-  let lastResponse = '';
-  for (let round = 0; round < (opts.rounds || 1); round++) {
-    for (const agent of agents) {
-      const prompt = lastResponse
-        ? `Mission: ${mission}\n\nPrevious perspective: "${lastResponse.slice(0, 500)}"\n\nNow give your ${agent.role} perspective, engaging critically with the above:`
-        : `Mission: ${mission}\n\nGive your opening ${agent.role} perspective:`;
-      const result = await callModel(route.provider, { messages: [{ role: 'user', content: prompt }], system: agent.system, model: route.model, maxTokens: 512, temperature: 0.8 }).catch(e => ({ content: `[Error: ${e.message}]` }));
-      lastResponse = result.content;
-      transcript.push({ round: round + 1, agent, content: result.content });
-    }
-  }
-  return transcript;
-}
+---
 
-async function _runConsensus(mission, agents, opts) {
-  // Phase 1: Individual views
-  const individualResults = await _runParallel(mission, agents, opts);
+## v1.1 — Developer Experience (Target: 100 ⭐)
 
-  // Phase 2: Synthesize
-  const route    = TriRouter.route(mission, opts);
-  const views    = individualResults.filter(r => r.success).map(r => `${r.agent.role}: ${r.content}`).join('\n\n---\n\n');
-  const synthesis = await callModel(route.provider, {
-    messages: [{ role: 'user', content: `Mission: ${mission}\n\nMultiple expert perspectives:\n\n${views}\n\nSynthesize these into a consensus recommendation. Identify agreements, disagreements, and the strongest unified recommendation.` }],
-    system: 'You are a strategic advisor synthesizing expert perspectives into consensus recommendations.',
-    model: route.model, maxTokens: 1024, temperature: 0.5
-  });
+**Goal:** Make TriAgentOS something every developer wants in their toolkit.
 
-  return { mode: 'consensus', individual: individualResults, synthesis: synthesis.content };
-}
+- [ ] `tri benchmark` — run community evaluation suite, compare model scores
+- [ ] `tri learn` — interactive AI curriculum (beginner → advanced)
+- [ ] `tri trendscan` — daily trending AI repos digest
+- [ ] `tri diff <file>` — AI-powered code diff reviewer
+- [ ] `tri explain <file>` — explain any codebase file intelligently
+- [ ] `tri test <file>` — auto-generate test suite for any function
+- [ ] Python SDK (`pip install triagentos`)
+- [ ] Config profiles (`tri config profile save work`)
+- [ ] Shell completion (bash, zsh, fish)
+- [ ] `--json` output flag for scripting
+- [ ] Proper error messages with recovery suggestions
 
-async function _runChain(mission, agents, opts) {
-  const route  = TriRouter.route(mission, opts);
-  const results = [];
-  let context   = mission;
-  for (const agent of agents) {
-    const prompt = results.length > 0
-      ? `${mission}\n\nPrevious agent (${results.at(-1).agent.role}) recommended:\n${results.at(-1).content.slice(0, 400)}\n\nNow provide your ${agent.role} perspective and next steps:`
-      : mission;
-    const result = await callModel(route.provider, { messages: [{ role: 'user', content: prompt }], system: agent.system, model: route.model, maxTokens: 768, temperature: 0.7 }).catch(e => ({ content: `[Error: ${e.message}]` }));
-    results.push({ agent, content: result.content, success: !result.content.startsWith('[Error') });
-  }
-  return results;
-}
+**Community ask:** Try v1.0 and [open issues](https://github.com/Triquantum/TriAgentOS/issues) for what's missing.
 
-export function listAgents() {
-  return Object.entries(AGENT_PROFILES).map(([key, a]) => ({ key, emoji: a.emoji, role: a.role }));
-}
+---
 
-export { AGENT_PROFILES };
+## v1.2 — Integrations & Tools (Target: 500 ⭐)
+
+**Goal:** Connect TriAgentOS to the tools developers already use.
+
+- [ ] **MCP (Model Context Protocol)** integration — plug any MCP server
+- [ ] **Function/tool calling** — give agents access to real tools
+- [ ] **Code interpreter** — execute Python/JS in sandboxed environment
+- [ ] **File context** — `tri ask "review this" --file ./src/api.js`
+- [ ] **Web search tool** — agents can browse the web
+- [ ] **GitHub integration** — review PRs, generate commit messages
+- [ ] **Notion/Obsidian** — read/write your knowledge base
+- [ ] **Slack/Discord bot** mode
+- [ ] **VS Code extension** — TriAgentOS inside your editor
+- [ ] More providers: Together AI, Cohere, Mistral API, Replicate
+
+**Why this matters:** Tools turn agents from advisors into doers.
+
+---
+
+## v1.3 — Workflows & Automation (Target: 1K ⭐)
+
+**Goal:** Automate complex multi-step AI workflows.
+
+- [ ] **Workflow DSL** — define multi-step agent workflows in YAML
+- [ ] **Scheduled workflows** — cron-like AI task scheduling
+- [ ] `tri workflow run <name>` — execute saved workflow templates
+- [ ] **Approval gates** — human-in-the-loop checkpoints
+- [ ] **Webhook triggers** — kick off workflows from external events
+- [ ] **Output pipelines** — chain outputs: agent → file → email → Slack
+- [ ] **Retry and fallback logic** — automatic provider failover
+- [ ] Community workflow marketplace (submit & discover workflows)
+
+---
+
+## v2.0 — Autonomous Agents (Target: 5K ⭐)
+
+**Goal:** True autonomous agents that complete complex goals without hand-holding.
+
+- [ ] **Agent loops** — agents that run until the task is done
+- [ ] **Self-reflection** — agents that review and improve their own output
+- [ ] **Multi-agent memory sharing** — swarm agents share a knowledge graph
+- [ ] **Goal decomposition** — break big goals into subtasks automatically
+- [ ] **Agent-to-agent communication** — agents delegate to specialists
+- [ ] **Persistent agent state** — agents remember across days/weeks
+- [ ] **Safety rails** — spending limits, action allowlists, human approval thresholds
+- [ ] **Agent marketplace** — publish and install community agents
+
+**The vision:** `tri swarm "Build me a SaaS MVP" --autonomous` and come back in 20 minutes.
+
+---
+
+## v2.5 — TriAgentOS Cloud (Target: 10K ⭐)
+
+**Goal:** Self-hosted and cloud platform for teams.
+
+- [ ] **Web dashboard** — visual workflow builder, agent monitoring
+- [ ] **Team workspaces** — shared agents, prompts, workflows
+- [ ] **TriAgentOS API** — call the OS from any language
+- [ ] **Deployment** — one-click Docker/Kubernetes deploy
+- [ ] **Analytics** — token usage, cost tracking, quality metrics
+- [ ] **Self-improving agents** — agents that learn from feedback over time
+- [ ] **Enterprise features** — SSO, audit logs, role-based access
+
+---
+
+## How to Help Us Get to 10K Stars
+
+### If you're a developer:
+- ⭐ Star the repo (takes 1 second, means everything)
+- 🐛 [Report bugs](https://github.com/Triquantum/TriAgentOS/issues/new?template=bug_report.md)
+- 🔧 [Submit PRs](CONTRIBUTING.md) — even small fixes help
+- 📦 Build something with TriAgentOS and share it
+
+### If you're a writer or marketer:
+- ✍️ Write a blog post or tutorial about TriAgentOS
+- 🐦 Share on X/Twitter, LinkedIn, Reddit (r/LocalLLaMA, r/MachineLearning)
+- 📹 Make a YouTube video or demo
+
+### If you're a company:
+- 🏢 Sponsor the project via [GitHub Sponsors](https://github.com/sponsors/Triquantum)
+- 🤝 Partnership opportunities: contact us via GitHub issues
+
+---
+
+## Version Philosophy
+
+- **Even minor versions** (1.2, 1.4) are for features
+- **Odd minor versions** (1.1, 1.3) are for stability, DX, and polish
+- **Breaking changes** only in major versions, with migration guide
+- **Community votes** on feature priorities via GitHub Discussions
+
+---
+
+*Last updated: May 2025 · [Suggest changes](https://github.com/Triquantum/TriAgentOS/issues)*

@@ -1,0 +1,38 @@
+{
+  "name": "TriAgentOS Community Edition",
+  "version": "1.0.0",
+  "edition": "community",
+  "company": "Triquantum Intelligent Systems Pvt Ltd",
+  "license": "MIT",
+  "kernel": { "autoboot": true, "maxServices": 100, "maxCommands": 200 },
+  "router": {
+    "defaultProvider": "anthropic",
+    "fallbackProvider": "ollama",
+    "preferQuality": true,
+    "costWarningThreshold": 1.00
+  },
+  "swarm": {
+    "defaultMode": "parallel",
+    "maxAgents": 8,
+    "defaultAgents": ["ceo", "cto", "marketer"],
+    "parallelTimeout": 60000
+  },
+  "memory": { "maxNodes": 10000, "compressionThreshold": 8000, "defaultType": "note" },
+  "state": { "autoCheckpoint": false, "maxStates": 100 },
+  "observability": { "enabled": true, "logLevel": "info", "traceEnabled": true, "maxTraces": 1000 },
+  "security": {
+    "autoScan": false,
+    "scanOnCommit": false,
+    "reportDir": "core/security/reports",
+    "scanners": ["secrets", "sast", "iac", "deps", "container"]
+  },
+  "scheduler": { "enabled": false, "checkInterval": 300 },
+  "discovery": { "enabled": true, "schedule": "daily", "maxRepos": 100 },
+  "university": { "defaultPath": "developer", "currentLesson": 1 },
+  "future": {
+    "_comment": "The following features are planned for Pro/Teams/Enterprise editions",
+    "pro": ["unlimited-agents", "priority-routing", "advanced-analytics", "custom-models"],
+    "teams": ["shared-workspaces", "team-memory", "collaborative-flows", "rbac"],
+    "enterprise": ["sso", "audit-compliance", "private-cloud", "sla", "dedicated-support"]
+  }
+}
