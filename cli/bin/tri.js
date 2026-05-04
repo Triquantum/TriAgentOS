@@ -7,6 +7,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+const ROOT      = join(__dirname, '../../');   // package root when installed globally
 const VERSION   = JSON.parse(readFileSync(join(__dirname,'../../package.json'),'utf8')).version;
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
@@ -369,7 +370,7 @@ skillCmd.command('list')
   .action(async (opts) => {
     const { readFileSync } = await import('fs');
     let registry = [];
-    try { registry = JSON.parse(readFileSync('registry/skills.json', 'utf8')); } catch {}
+    try { registry = JSON.parse(readFileSync(join(ROOT, 'registry/skills.json'), 'utf8')); } catch {}
     if (opts.json) { json(registry); return; }
     const c = await chalk();
     console.log(c.bold.cyan('\n  🧠 Available Skills\n'));

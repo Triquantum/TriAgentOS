@@ -1,6 +1,10 @@
 #!/usr/bin/env node
 // tools/score-engine/validate-registry.js
 import { readFileSync, existsSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(__dirname, '../../');
 
 const REGISTRIES = [
   { path: 'registry/models.json',              required: ['id','provider'],                         minItems: 5,  arrayKey: 'models' },
@@ -22,9 +26,9 @@ console.log('\n  TriAgentOS Registry Validator\n  ──────────
 
 for (const reg of REGISTRIES) {
   process.stdout.write(`  ${reg.path}... `);
-  if (!existsSync(reg.path)) { console.log('✗ MISSING'); failed++; continue; }
+  if (!existsSync(join(ROOT, reg.path))) { console.log('✗ MISSING'); failed++; continue; }
   try {
-    const raw  = JSON.parse(readFileSync(reg.path, 'utf8'));
+    const raw  = JSON.parse(readFileSync(join(ROOT, reg.path), 'utf8'));
     const data = reg.arrayKey ? raw[reg.arrayKey] : raw;
     if (reg.isObject) { console.log('✓'); passed++; continue; }
     if (!Array.isArray(data)) { console.log(`✗ Expected array${reg.arrayKey?' at .'+reg.arrayKey:''}`); failed++; continue; }
@@ -40,18 +44,18 @@ for (const reg of REGISTRIES) {
 console.log();
 for (const cfg of CONFIGS) {
   process.stdout.write(`  ${cfg}... `);
-  if (!existsSync(cfg)) { console.log('✗ MISSING'); failed++; continue; }
-  try { JSON.parse(readFileSync(cfg, 'utf8')); console.log('✓'); passed++; }
+  if (!existsSync(join(ROOT, cfg))) { console.log('✗ MISSING'); failed++; continue; }
+  try { JSON.parse(readFileSync(join(ROOT, cfg), 'utf8')); console.log('✓'); passed++; }
   catch(e) { console.log(`✗ ${e.message}`); failed++; }
 }
 
 console.log();
 process.stdout.write('  cli/bin/tri.js... ');
-if (existsSync('cli/bin/tri.js')) { console.log('✓'); passed++; }
+if (existsSync(join(ROOT, 'cli/bin/tri.js'))) { console.log('✓'); passed++; }
 else { console.log('✗ MISSING'); failed++; }
 
 process.stdout.write('  .gitignore (AI metadata)... ');
-if (existsSync('.gitignore') && readFileSync('.gitignore','utf8').includes('.claude')) { console.log('✓'); passed++; }
+if (existsSync(join(ROOT,'.gitignore')) && readFileSync(join(ROOT,'.gitignore'),'utf8').includes('.claude')) { console.log('✓'); passed++; }
 else { console.log('⚠ .claude not excluded'); }
 
 console.log(`\n  ─────────────────────────────`);
