@@ -618,80 +618,59 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily by our GitHub Action · Last scan: **2026-05-04** · Tracking **4.3M+ AI repos** on GitHub*
+*Auto-updated daily · Last scan: **2026-05-05** · Found **50+ repos***
 
-> Run `tri discover` or `npm run discover` to refresh this section
+### 🏆 Top 10 AI Repos Right Now
 
----
+| Rank | Repository | Stars | Category | Score |
+|------|-----------|-------|----------|-------|
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 135.8k | `rag` | 100/100 |
+| 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 57.7k | `general` | 100/100 |
+| 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 50.6k | `orchestration` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 31.4k | `general` | 100/100 |
+| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 31.2k | `rag` | 100/100 |
+| 6 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.1k | `rag` | 100/100 |
+| 7 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 140.1k | `rag` | 100/100 |
+| 8 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 42.5k | `orchestration` | 100/100 |
+| 9 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 27.9k | `rag` | 100/100 |
+| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15.6k | `security` | 100/100 |
 
-### 🏆 Top AI Agent Repos Right Now
+### 📂 By Category
 
-| Rank | Repository | Stars | What it does |
-|------|-----------|-------|-------------|
-| 🥇 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 112k | Framework for building LLM-powered applications with composable chains |
-| 🥈 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 150k | AI-native workflow automation — 400+ integrations, self-hostable |
-| 🥉 3 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | ⭐ 63k | Modern open-source ChatGPT/LLM UI with plugins and multi-modal support |
-| 4 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐ 43k | Data framework for connecting LLMs to external knowledge sources |
-| 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ⭐ 42k | Visual drag-and-drop builder for LLM agent workflows |
-| 6 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 49k | Role-playing multi-agent framework for autonomous AI orchestration |
-| 7 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 70k | Open-source RAG engine with deep document understanding + agentic tools |
-| 8 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 48k | Multi-agent conversation framework — build next-gen LLM applications |
-| 9 | [getmaxun/maxun](https://github.com/getmaxun/maxun) | ⭐ 25k | No-code platform to turn websites into APIs and data pipelines |
-| 10 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | ⭐ 20k | TypeScript AI agent framework with assistants, RAG, and observability |
+**🔍 Rag**
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐135.8k — The agent engineering platform. Available in TypeScript!
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐31.2k — Build resilient language agents as graphs. Available in TypeScript!
+- [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.1k — Open-source AI orchestration framework for building context-engineered, producti
 
----
+**🤖 General**
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐57.7k — A programming framework for agentic AI
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐31.4k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐7.6k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 
-### 📂 Trending by Category
+**⚡ Orchestration**
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐50.6k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**hesreallyhim/awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) ⭐42.5k — A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐13.2k — Open-source AI coworker, with memory
 
-**🐝 Multi-Agent Frameworks**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐49k — Role-playing autonomous agents with task delegation and memory
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐48k — Conversational multi-agent apps from Microsoft Research
-- [**OpenBMB/AgentVerse**](https://github.com/OpenBMB/AgentVerse) — Multi-LLM agent environments for task-solving and simulation
+**🔐 Security**
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐15.6k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
-**⚡ Workflow Orchestration**
-- [**n8n-io/n8n**](https://github.com/n8n-io/n8n) ⭐150k — The most starred AI workflow tool. 400+ integrations, self-hosted
-- [**langflow-ai/langflow**](https://github.com/langflow-ai/langflow) ⭐42k — Visual LLM workflow builder built on LangChain
-- [**logspace-ai/flowise**](https://github.com/FlowiseAI/Flowise) ⭐42k — Drag-and-drop UI to build LLM apps and agent flows
+**🧠 Memory**
+- [**lobehub/lobehub**](https://github.com/lobehub/lobehub) ⭐76.0k — The ultimate space for work and life — to find, build, and collaborate with agen
 
-**🔍 RAG & Memory**
-- [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) ⭐70k — Deep-document RAG engine. Fastest growing in GitHub Octoverse 2025
-- [**run-llama/llama_index**](https://github.com/run-llama/llama_index) ⭐43k — Connect LLMs to any data source with 50+ integrations
-- [**mem0ai/mem0**](https://github.com/mem0ai/mem0) ⭐37k — Intelligent memory layer: persistent context across agent sessions
+**🐝 Multi-agent**
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐44.0k — CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过
+- [**camel-ai/camel**](https://github.com/camel-ai/camel) ⭐16.9k — 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law 
+- [**FoundationAgents/MetaGPT**](https://github.com/FoundationAgents/MetaGPT) ⭐67.7k — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Languag
 
-**🖥️ Local Models (Run Offline)**
-- [**ollama/ollama**](https://github.com/ollama/ollama) ⭐162k — Run Llama, Mistral, Gemma locally. Dead simple CLI. #1 local AI tool
-- [**llm-cpp-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) — C/C++ inference for CPU, GPU, Apple Silicon. The engine under Ollama
-- [**open-webui/open-webui**](https://github.com/open-webui/open-webui) ⭐124k — Beautiful self-hosted ChatGPT-style UI for local models. 282M+ downloads
+**💻 Coding**
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐19.4k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.1k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
-**💻 AI Coding Agents**
-- [**OpenHands AI**](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative. Code Less, Make More
-- [**PraisonAI/PraisonAI**](https://github.com/MervinPraison/PraisonAI) — Production multi-agent framework: 100+ LLMs, MCP, 5-line deploy
-- [**mastra-ai/mastra**](https://github.com/mastra-ai/mastra) ⭐20k — TypeScript agent framework with built-in observability
+**🖥️ Local-models**
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.2k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 
-**🧠 LLM Infrastructure**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐112k — The most used LLM framework. 6M+ downloads/month
-- [**BerriAI/litellm**](https://github.com/BerriAI/litellm) ⭐50k — Unified API for 100+ LLM providers. Drop-in OpenAI replacement
-- [**dify-ai/dify**](https://github.com/langgenius/dify) ⭐114k — LLM app development platform. RAG + agents + monitoring
-
-**🔐 AI Security**
-- [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks) — Detect secrets in git repos. Used by Fortune 500s
-- [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) — Container and code vulnerability scanner
-- [**bridgecrewio/checkov**](https://github.com/bridgecrewio/checkov) — IaC security scanner for Terraform, Dockerfile, K8s
-
----
-
-### 📈 Ecosystem Stats *(as of 2026-05-04)*
-
-| Metric | Count |
-|--------|-------|
-| AI repos on GitHub | 4.3M+ |
-| YoY growth in LLM projects | 178% |
-| Repos tracked by TriAgentOS | 50+ |
-| New repos discovered today | auto-updated |
-
----
-
-> 💡 **See something missing?** [Open a PR](https://github.com/Triquantum/TriAgentOS/pulls) to add a repo to our scanner queries in `tools/github-scanner/discover.js`
+> Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
 <!-- TRIAGENTOS_DAILY_DISCOVERY_END -->
 
