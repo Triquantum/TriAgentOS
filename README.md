@@ -618,22 +618,22 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-05-15** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-05-16** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 136.8k | `rag` | 100/100 |
-| 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 58.0k | `general` | 100/100 |
-| 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 51.4k | `orchestration` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 32.2k | `general` | 100/100 |
-| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 32.1k | `rag` | 100/100 |
-| 6 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.2k | `rag` | 100/100 |
-| 7 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 141.5k | `rag` | 100/100 |
-| 8 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 43.8k | `orchestration` | 100/100 |
-| 9 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.0k | `rag` | 100/100 |
-| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15.8k | `security` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 51.5k | `orchestration` | 100/100 |
+| 3 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 32.3k | `general` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 32.1k | `rag` | 100/100 |
+| 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.2k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 141.5k | `rag` | 100/100 |
+| 7 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 43.9k | `orchestration` | 100/100 |
+| 8 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.0k | `rag` | 100/100 |
+| 9 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15.8k | `security` | 100/100 |
+| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.2k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
@@ -642,15 +642,15 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐32.1k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.2k — Open-source AI orchestration framework for building context-engineered, producti
 
-**🤖 General**
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐58.0k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐32.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐7.9k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
-
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐51.4k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**hesreallyhim/awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) ⭐43.8k — A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐51.5k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**hesreallyhim/awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) ⭐43.9k — A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.2k — Open-source AI coworker, with memory
+
+**🤖 General**
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐32.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐8.0k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.5k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐15.8k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
@@ -664,12 +664,12 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**FoundationAgents/MetaGPT**](https://github.com/FoundationAgents/MetaGPT) ⭐68.0k — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Languag
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐19.6k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐19.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.2k — Open-source, secure environment with real-world tools for enterprise-grade agent
-- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐45.7k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
+- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐45.8k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 
 **🖥️ Local-models**
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.3k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.4k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
