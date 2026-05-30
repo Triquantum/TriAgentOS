@@ -618,16 +618,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-05-29** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-05-30** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.0k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.4k | `orchestration` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.5k | `orchestration` | 100/100 |
 | 3 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.4k | `general` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 33.3k | `rag` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 33.4k | `rag` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.4k | `rag` | 100/100 |
 | 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 143.1k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.2k | `rag` | 100/100 |
@@ -639,11 +639,11 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.0k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐33.3k — Build resilient agents.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐33.4k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.4k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐52.4k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐52.5k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.7k — Open-source AI coworker, with memory
 - [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.4k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 
@@ -656,12 +656,12 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐15.9k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐44.9k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐45.0k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐19.9k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.4k — Open-source, secure environment with real-world tools for enterprise-grade agent
-- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐46.5k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
+- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐46.6k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 
 **🐝 Multi-agent**
 - [**camel-ai/camel**](https://github.com/camel-ai/camel) ⭐17.1k — 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law 
