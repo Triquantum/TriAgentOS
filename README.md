@@ -618,49 +618,49 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-06-02** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-06-03** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.3k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.4k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.7k | `orchestration` | 100/100 |
-| 3 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.7k | `general` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 33.6k | `rag` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 33.7k | `rag` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.7k | `general` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.4k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 143.5k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 143.7k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.2k | `rag` | 100/100 |
-| 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15.9k | `security` | 100/100 |
-| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.8k | `orchestration` | 100/100 |
+| 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.0k | `security` | 100/100 |
+| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.9k | `orchestration` | 100/100 |
 | 10 | [neuml/txtai](https://github.com/neuml/txtai) | ⭐ 12.6k | `rag` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.3k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐33.6k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.4k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐33.7k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.4k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐52.7k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.8k — Open-source AI coworker, with memory
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.9k — Open-source AI coworker, with memory
 - [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.5k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐33.7k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.4k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.5k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.5k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 **🔐 Security**
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐15.9k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐45.0k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐20.0k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.4k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.5k — Open-source, secure environment with real-world tools for enterprise-grade agent
 - [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐46.8k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 
 **🐝 Multi-agent**
