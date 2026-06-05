@@ -618,18 +618,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-06-04** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-06-05** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.5k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.8k | `orchestration` | 100/100 |
-| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 33.8k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.6k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.9k | `orchestration` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 34.0k | `rag` | 100/100 |
 | 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.8k | `general` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.5k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 143.8k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 144.0k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.3k | `rag` | 100/100 |
 | 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.0k | `security` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.9k | `orchestration` | 100/100 |
@@ -638,14 +638,14 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.5k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐33.8k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.6k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐34.0k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.5k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐52.8k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐52.9k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.9k — Open-source AI coworker, with memory
-- [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.5k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
+- [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.6k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐33.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
