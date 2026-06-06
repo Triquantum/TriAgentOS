@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-06-05** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-06-06** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -627,9 +627,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.6k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 52.9k | `orchestration` | 100/100 |
 | 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 34.0k | `rag` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.8k | `general` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 33.9k | `general` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.5k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 144.0k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 144.1k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.3k | `rag` | 100/100 |
 | 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.0k | `security` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.9k | `orchestration` | 100/100 |
@@ -648,9 +648,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.6k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐33.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.6k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
-- [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.5k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐33.9k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.7k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
@@ -661,7 +661,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐20.0k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.5k — Open-source, secure environment with real-world tools for enterprise-grade agent
-- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐46.9k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
+- [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐47.0k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 
 **🐝 Multi-agent**
 - [**camel-ai/camel**](https://github.com/camel-ai/camel) ⭐17.1k — 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law 
