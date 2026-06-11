@@ -618,38 +618,38 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-06-10** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-06-11** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 138.9k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 53.2k | `orchestration` | 100/100 |
-| 3 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 34.3k | `general` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 34.3k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 139.0k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 53.3k | `orchestration` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 34.4k | `rag` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 34.4k | `general` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.5k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 144.7k | `rag` | 100/100 |
-| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.3k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 144.8k | `rag` | 100/100 |
+| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.4k | `rag` | 100/100 |
 | 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.0k | `security` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 14.9k | `orchestration` | 100/100 |
-| 10 | [neuml/txtai](https://github.com/neuml/txtai) | ⭐ 12.6k | `rag` | 100/100 |
+| 10 | [neuml/txtai](https://github.com/neuml/txtai) | ⭐ 12.7k | `rag` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐138.9k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐34.3k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐139.0k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐34.4k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.5k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐53.2k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐53.3k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐14.9k — Open-source AI coworker, with memory
 - [**superset-sh/superset**](https://github.com/superset-sh/superset) ⭐11.7k — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐34.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.8k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐34.4k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐9.9k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 **🔐 Security**
@@ -659,7 +659,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐45.2k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.0k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.1k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.5k — Open-source, secure environment with real-world tools for enterprise-grade agent
 - [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ⭐47.2k — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 
