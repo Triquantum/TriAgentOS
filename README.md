@@ -618,18 +618,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-06-23** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-06-24** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 140.0k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 54.2k | `orchestration` | 100/100 |
-| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 35.5k | `rag` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 35.2k | `general` | 100/100 |
-| 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.6k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 146.2k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 140.1k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 54.3k | `orchestration` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 35.6k | `rag` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 35.3k | `general` | 100/100 |
+| 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.7k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 146.4k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.6k | `rag` | 100/100 |
 | 8 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.1k | `security` | 100/100 |
 | 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 15.5k | `orchestration` | 100/100 |
@@ -638,17 +638,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐140.0k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐35.5k — Build resilient agents.
-- [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.6k — Open-source AI orchestration framework for building context-engineered, producti
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐140.1k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐35.6k — Build resilient agents.
+- [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.7k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐54.2k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐54.3k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐15.5k — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐15.0k — Open-source AI coworker, with memory
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐35.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐35.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐10.4k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
