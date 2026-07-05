@@ -618,28 +618,28 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-07-04** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-07-05** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 140.9k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 141.0k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 54.9k | `orchestration` | 100/100 |
-| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 36.4k | `rag` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 36.5k | `rag` | 100/100 |
 | 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 35.8k | `general` | 100/100 |
 | 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.8k | `rag` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 147.6k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 147.7k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.8k | `rag` | 100/100 |
 | 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 16.6k | `orchestration` | 100/100 |
-| 9 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.1k | `security` | 100/100 |
+| 9 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.2k | `security` | 100/100 |
 | 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 15.1k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐140.9k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐36.4k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐141.0k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐36.5k — Build resilient agents.
 - [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) ⭐25.8k — Open-source AI orchestration framework for building context-engineered, producti
 
 **⚡ Orchestration**
@@ -649,18 +649,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐35.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐11.0k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐11.1k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 **🔐 Security**
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.2k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐45.8k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
 - [**OthmanAdi/planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐24.5k — Persistent file-based planning for AI coding agents and long-running agentic tas
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.4k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.5k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐12.8k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🐝 Multi-agent**
