@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-07-10** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-07-11** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -627,28 +627,28 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 141.5k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 55.3k | `orchestration` | 100/100 |
 | 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 37.0k | `rag` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 36.1k | `general` | 100/100 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 148.4k | `rag` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 36.2k | `general` | 100/100 |
+| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 148.5k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 28.9k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.9k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 17.0k | `orchestration` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 17.1k | `orchestration` | 100/100 |
 | 9 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.2k | `security` | 100/100 |
-| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.0k | `orchestration` | 100/100 |
+| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.1k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐141.5k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐37.0k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐148.4k — Production-ready platform for agentic workflow development.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐148.5k — Production-ready platform for agentic workflow development.
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐55.3k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐17.0k — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.0k — Open-source AI coworker, with memory
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐17.1k — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.1k — Open-source AI coworker, with memory
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐36.1k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐36.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐11.3k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
@@ -659,8 +659,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐45.9k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
-- [**OthmanAdi/planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐25.1k — Persistent file-based planning for AI coding agents and long-running agentic tas
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.5k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**OthmanAdi/planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐25.2k — Persistent file-based planning for AI coding agents and long-running agentic tas
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐20.6k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐28.7k — A list of AI autonomous agents
 
 **🐝 Multi-agent**
