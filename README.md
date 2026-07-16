@@ -618,33 +618,33 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-07-15** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-07-16** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 141.8k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 141.9k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 55.6k | `orchestration` | 100/100 |
-| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 37.3k | `rag` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 37.4k | `rag` | 100/100 |
 | 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 36.4k | `general` | 100/100 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 148.9k | `rag` | 100/100 |
+| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 149.0k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.0k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 25.9k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 17.3k | `orchestration` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 17.4k | `orchestration` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.5k | `orchestration` | 100/100 |
 | 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.2k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐141.8k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐37.3k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐148.9k — Production-ready platform for agentic workflow development.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐141.9k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐37.4k — Build resilient agents.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐149.0k — Production-ready platform for agentic workflow development.
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐55.6k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐17.3k — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐17.4k — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.5k — Open-source AI coworker, with memory
 
 **🤖 General**
