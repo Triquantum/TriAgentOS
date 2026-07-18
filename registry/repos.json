@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-17T08:19:27.500Z",
+  "lastUpdated": "2026-07-18T08:01:09.726Z",
   "totalFound": 72,
   "top50": [
     {
       "name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "description": "The agent engineering platform.",
-      "stars": 141965,
+      "stars": 142020,
       "language": "Python",
       "topics": [
         "agents",
@@ -30,10 +30,10 @@
         "rag",
         "typescript"
       ],
-      "updatedAt": "2026-07-17T04:00:40Z",
+      "updatedAt": "2026-07-17T20:42:35Z",
       "license": "MIT",
-      "forks": 23597,
-      "openIssues": 434,
+      "forks": 23615,
+      "openIssues": 435,
       "score": 100,
       "category": "rag"
     },
@@ -41,7 +41,7 @@
       "name": "crewAIInc/crewAI",
       "url": "https://github.com/crewAIInc/crewAI",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-      "stars": 55676,
+      "stars": 55716,
       "language": "Python",
       "topics": [
         "agents",
@@ -50,10 +50,10 @@
         "aiagentframework",
         "llms"
       ],
-      "updatedAt": "2026-07-17T07:00:20Z",
+      "updatedAt": "2026-07-17T14:33:29Z",
       "license": "MIT",
-      "forks": 7860,
-      "openIssues": 657,
+      "forks": 7867,
+      "openIssues": 652,
       "score": 100,
       "category": "orchestration"
     },
@@ -61,7 +61,7 @@
       "name": "langchain-ai/langgraph",
       "url": "https://github.com/langchain-ai/langgraph",
       "description": "Build resilient agents.",
-      "stars": 37489,
+      "stars": 37535,
       "language": "Python",
       "topics": [
         "agents",
@@ -83,10 +83,10 @@
         "python",
         "rag"
       ],
-      "updatedAt": "2026-07-16T16:29:30Z",
+      "updatedAt": "2026-07-17T18:13:00Z",
       "license": "MIT",
-      "forks": 6282,
-      "openIssues": 621,
+      "forks": 6289,
+      "openIssues": 625,
       "score": 100,
       "category": "rag"
     },
@@ -94,7 +94,7 @@
       "name": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 36460,
+      "stars": 36508,
       "language": "Python",
       "topics": [
         "agent",
@@ -115,10 +115,10 @@
         "qqbot",
         "telegram"
       ],
-      "updatedAt": "2026-07-16T10:18:29Z",
+      "updatedAt": "2026-07-18T07:55:15Z",
       "license": "AGPL-3.0",
-      "forks": 2529,
-      "openIssues": 1344,
+      "forks": 2532,
+      "openIssues": 1346,
       "score": 100,
       "category": "general"
     },
@@ -126,7 +126,7 @@
       "name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 149123,
+      "stars": 149199,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -150,10 +150,10 @@
         "rag",
         "workflow"
       ],
-      "updatedAt": "2026-07-17T08:18:09Z",
+      "updatedAt": "2026-07-18T06:09:18Z",
       "license": "NOASSERTION",
-      "forks": 23492,
-      "openIssues": 1024,
+      "forks": 23506,
+      "openIssues": 1058,
       "score": 100,
       "category": "rag"
     },
@@ -161,7 +161,7 @@
       "name": "labring/FastGPT",
       "url": "https://github.com/labring/FastGPT",
       "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
-      "stars": 29009,
+      "stars": 29014,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -175,10 +175,10 @@
         "rag",
         "workflow"
       ],
-      "updatedAt": "2026-07-17T06:57:31Z",
+      "updatedAt": "2026-07-18T04:52:25Z",
       "license": "NOASSERTION",
       "forks": 7222,
-      "openIssues": 158,
+      "openIssues": 160,
       "score": 100,
       "category": "rag"
     },
@@ -186,7 +186,7 @@
       "name": "deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
       "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-      "stars": 25922,
+      "stars": 25929,
       "language": "MDX",
       "topics": [
         "agent",
@@ -210,10 +210,10 @@
         "summarization",
         "transformers"
       ],
-      "updatedAt": "2026-07-17T08:14:45Z",
+      "updatedAt": "2026-07-17T15:51:49Z",
       "license": "Apache-2.0",
-      "forks": 2928,
-      "openIssues": 111,
+      "forks": 2931,
+      "openIssues": 109,
       "score": 100,
       "category": "rag"
     },
@@ -221,7 +221,7 @@
       "name": "jnMetaCode/agency-agents-zh",
       "url": "https://github.com/jnMetaCode/agency-agents-zh",
       "description": "🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
-      "stars": 17465,
+      "stars": 17526,
       "language": "Shell",
       "topics": [
         "agency-orchestrator",
@@ -244,9 +244,9 @@
         "workbuddy",
         "workflow"
       ],
-      "updatedAt": "2026-07-15T10:32:04Z",
+      "updatedAt": "2026-07-17T13:01:39Z",
       "license": "MIT",
-      "forks": 2951,
+      "forks": 2963,
       "openIssues": 1,
       "score": 100,
       "category": "orchestration"
@@ -255,7 +255,7 @@
       "name": "rowboatlabs/rowboat",
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 16580,
+      "stars": 16612,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -274,9 +274,9 @@
         "orchestration",
         "productivity"
       ],
-      "updatedAt": "2026-07-17T08:06:23Z",
+      "updatedAt": "2026-07-17T11:57:58Z",
       "license": "Apache-2.0",
-      "forks": 1653,
+      "forks": 1656,
       "openIssues": 120,
       "score": 100,
       "category": "orchestration"
@@ -285,7 +285,7 @@
       "name": "cft0808/edict",
       "url": "https://github.com/cft0808/edict",
       "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-      "stars": 16225,
+      "stars": 16238,
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -304,7 +304,7 @@
       ],
       "updatedAt": "2026-07-06T13:11:57Z",
       "license": "MIT",
-      "forks": 1705,
+      "forks": 1704,
       "openIssues": 38,
       "score": 100,
       "category": "security"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-07-14T19:34:56Z",
       "license": "Apache-2.0",
       "forks": 847,
-      "openIssues": 21,
+      "openIssues": 20,
       "score": 100,
       "category": "rag"
     },
@@ -348,7 +348,7 @@
       "name": "superset-sh/superset",
       "url": "https://github.com/superset-sh/superset",
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "stars": 12463,
+      "stars": 12477,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -372,10 +372,10 @@
         "vibe-coding",
         "worktrees"
       ],
-      "updatedAt": "2026-07-17T06:30:14Z",
+      "updatedAt": "2026-07-18T04:03:25Z",
       "license": "NOASSERTION",
-      "forks": 1086,
-      "openIssues": 343,
+      "forks": 1089,
+      "openIssues": 354,
       "score": 100,
       "category": "orchestration"
     },
@@ -383,7 +383,7 @@
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 77258,
+      "stars": 77316,
       "language": "Python",
       "topics": [
         "agent",
@@ -405,10 +405,10 @@
         "superagent",
         "typescript"
       ],
-      "updatedAt": "2026-07-17T08:08:53Z",
+      "updatedAt": "2026-07-18T01:00:34Z",
       "license": "MIT",
-      "forks": 10505,
-      "openIssues": 976,
+      "forks": 10520,
+      "openIssues": 993,
       "score": 100,
       "category": "rag"
     },
@@ -416,7 +416,7 @@
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 64725,
+      "stars": 64935,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -440,10 +440,10 @@
         "swarm-intelligence",
         "typescript"
       ],
-      "updatedAt": "2026-07-17T07:14:35Z",
+      "updatedAt": "2026-07-18T06:07:26Z",
       "license": "MIT",
-      "forks": 7690,
-      "openIssues": 795,
+      "forks": 7708,
+      "openIssues": 800,
       "score": 100,
       "category": "rag"
     },
@@ -451,7 +451,7 @@
       "name": "zhayujie/CowAgent",
       "url": "https://github.com/zhayujie/CowAgent",
       "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 46020,
+      "stars": 46030,
       "language": "Python",
       "topics": [
         "ai",
@@ -471,10 +471,10 @@
         "openclaw",
         "skills"
       ],
-      "updatedAt": "2026-07-17T08:17:16Z",
+      "updatedAt": "2026-07-17T08:50:21Z",
       "license": "MIT",
-      "forks": 10267,
-      "openIssues": 30,
+      "forks": 10266,
+      "openIssues": 31,
       "score": 100,
       "category": "memory"
     },
@@ -482,7 +482,7 @@
       "name": "OthmanAdi/planning-with-files",
       "url": "https://github.com/OthmanAdi/planning-with-files",
       "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-      "stars": 25436,
+      "stars": 25459,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -508,7 +508,7 @@
       ],
       "updatedAt": "2026-07-14T14:32:40Z",
       "license": "MIT",
-      "forks": 2149,
+      "forks": 2152,
       "openIssues": 5,
       "score": 100,
       "category": "coding"
@@ -517,7 +517,7 @@
       "name": "NirDiamant/GenAI_Agents",
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
-      "stars": 23277,
+      "stars": 23310,
       "language": "Jupyter Notebook",
       "topics": [
         "agentic-ai",
@@ -542,7 +542,7 @@
       ],
       "updatedAt": "2026-07-14T18:50:28Z",
       "license": "NOASSERTION",
-      "forks": 3920,
+      "forks": 3927,
       "openIssues": 7,
       "score": 100,
       "category": "rag"
@@ -551,7 +551,7 @@
       "name": "google/adk-python",
       "url": "https://github.com/google/adk-python",
       "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "stars": 20637,
+      "stars": 20648,
       "language": "Python",
       "topics": [
         "agent",
@@ -571,10 +571,10 @@
         "multi-agents",
         "multi-agents-collaboration"
       ],
-      "updatedAt": "2026-07-17T05:27:30Z",
+      "updatedAt": "2026-07-17T21:15:08Z",
       "license": "Apache-2.0",
-      "forks": 3704,
-      "openIssues": 636,
+      "forks": 3707,
+      "openIssues": 641,
       "score": 100,
       "category": "coding"
     },
@@ -582,7 +582,7 @@
       "name": "camel-ai/camel",
       "url": "https://github.com/camel-ai/camel",
       "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
-      "stars": 17410,
+      "stars": 17414,
       "language": "Python",
       "topics": [
         "agent",
@@ -595,10 +595,10 @@
         "multi-agent-systems",
         "natural-language-processing"
       ],
-      "updatedAt": "2026-07-16T18:18:28Z",
+      "updatedAt": "2026-07-17T20:43:42Z",
       "license": "Apache-2.0",
-      "forks": 2004,
-      "openIssues": 470,
+      "forks": 2006,
+      "openIssues": 467,
       "score": 100,
       "category": "multi-agent"
     },
@@ -606,7 +606,7 @@
       "name": "khoj-ai/khoj",
       "url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-      "stars": 35818,
+      "stars": 35844,
       "language": "Python",
       "topics": [
         "agent",
@@ -632,8 +632,8 @@
       ],
       "updatedAt": "2026-06-24T21:17:20Z",
       "license": "AGPL-3.0",
-      "forks": 2315,
-      "openIssues": 119,
+      "forks": 2316,
+      "openIssues": 120,
       "score": 100,
       "category": "rag"
     },
@@ -641,7 +641,7 @@
       "name": "e2b-dev/awesome-ai-agents",
       "url": "https://github.com/e2b-dev/awesome-ai-agents",
       "description": "A list of AI autonomous agents",
-      "stars": 28832,
+      "stars": 28863,
       "language": "Unknown",
       "topics": [
         "agent",
@@ -660,8 +660,8 @@
       ],
       "updatedAt": "2026-07-09T17:41:48Z",
       "license": "NOASSERTION",
-      "forks": 3176,
-      "openIssues": 851,
+      "forks": 3185,
+      "openIssues": 855,
       "score": 100,
       "category": "coding"
     },
@@ -669,7 +669,7 @@
       "name": "Fosowl/agenticSeek",
       "url": "https://github.com/Fosowl/agenticSeek",
       "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
-      "stars": 26635,
+      "stars": 26637,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -683,7 +683,7 @@
       ],
       "updatedAt": "2026-07-12T11:50:42Z",
       "license": "GPL-3.0",
-      "forks": 2982,
+      "forks": 2984,
       "openIssues": 33,
       "score": 100,
       "category": "local-models"
@@ -692,7 +692,7 @@
       "name": "HKUDS/nanobot",
       "url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 45784,
+      "stars": 45834,
       "language": "Python",
       "topics": [
         "ai",
@@ -709,10 +709,10 @@
         "openai",
         "openclaw"
       ],
-      "updatedAt": "2026-07-17T05:22:10Z",
+      "updatedAt": "2026-07-17T17:22:00Z",
       "license": "MIT",
-      "forks": 8083,
-      "openIssues": 877,
+      "forks": 8094,
+      "openIssues": 879,
       "score": 100,
       "category": "orchestration"
     },
@@ -720,7 +720,7 @@
       "name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 13014,
+      "stars": 13022,
       "language": "Python",
       "topics": [
         "agent",
@@ -742,10 +742,10 @@
         "software",
         "typescript"
       ],
-      "updatedAt": "2026-07-16T16:51:03Z",
+      "updatedAt": "2026-07-17T16:20:20Z",
       "license": "Apache-2.0",
       "forks": 967,
-      "openIssues": 55,
+      "openIssues": 54,
       "score": 100,
       "category": "coding"
     },
@@ -753,7 +753,7 @@
       "name": "langchain4j/langchain4j",
       "url": "https://github.com/langchain4j/langchain4j",
       "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
-      "stars": 12623,
+      "stars": 12631,
       "language": "Java",
       "topics": [
         "anthropic",
@@ -777,9 +777,9 @@
         "pinecone",
         "vector-database"
       ],
-      "updatedAt": "2026-07-17T08:05:35Z",
+      "updatedAt": "2026-07-17T13:42:57Z",
       "license": "Apache-2.0",
-      "forks": 2379,
+      "forks": 2380,
       "openIssues": 805,
       "score": 100,
       "category": "rag"
@@ -788,7 +788,7 @@
       "name": "HBAI-Ltd/Toonflow-app",
       "url": "https://github.com/HBAI-Ltd/Toonflow-app",
       "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
-      "stars": 11575,
+      "stars": 11604,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -812,16 +812,16 @@
       ],
       "updatedAt": "2026-07-09T07:20:58Z",
       "license": "Apache-2.0",
-      "forks": 2139,
-      "openIssues": 2,
+      "forks": 2144,
+      "openIssues": 3,
       "score": 100,
       "category": "general"
     },
     {
       "name": "BlockRunAI/ClawRouter",
       "url": "https://github.com/BlockRunAI/ClawRouter",
-      "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
-      "stars": 6658,
+      "description": "The agent-native LLM router for autonomous agents. 55+ models (8 free), <1ms local routing, USDC payments on Base & Solana via x402.",
+      "stars": 6659,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -841,18 +841,18 @@
         "usdc",
         "x402"
       ],
-      "updatedAt": "2026-07-15T02:55:09Z",
+      "updatedAt": "2026-07-18T04:12:39Z",
       "license": "MIT",
-      "forks": 626,
-      "openIssues": 22,
+      "forks": 628,
+      "openIssues": 25,
       "score": 100,
-      "category": "general"
+      "category": "local-models"
     },
     {
       "name": "microsoft/autogen",
       "url": "https://github.com/microsoft/autogen",
       "description": "A programming framework for agentic AI",
-      "stars": 59785,
+      "stars": 59801,
       "language": "Python",
       "topics": [
         "agentic",
@@ -869,7 +869,7 @@
       "updatedAt": "2026-04-15T11:59:09Z",
       "license": "CC-BY-4.0",
       "forks": 8999,
-      "openIssues": 957,
+      "openIssues": 964,
       "score": 97,
       "category": "general"
     },
@@ -877,7 +877,7 @@
       "name": "openai/openai-agents-python",
       "url": "https://github.com/openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": 27961,
+      "stars": 27985,
       "language": "Python",
       "topics": [
         "agents",
@@ -888,10 +888,10 @@
         "openai",
         "python"
       ],
-      "updatedAt": "2026-07-17T08:01:21Z",
+      "updatedAt": "2026-07-18T02:00:57Z",
       "license": "MIT",
-      "forks": 4340,
-      "openIssues": 52,
+      "forks": 4346,
+      "openIssues": 51,
       "score": 97,
       "category": "orchestration"
     },
@@ -899,7 +899,7 @@
       "name": "CherryHQ/cherry-studio",
       "url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48685,
+      "stars": 48711,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -913,10 +913,10 @@
         "skills",
         "vibe-coding"
       ],
-      "updatedAt": "2026-07-17T08:18:23Z",
+      "updatedAt": "2026-07-18T07:34:19Z",
       "license": "AGPL-3.0",
-      "forks": 4624,
-      "openIssues": 1224,
+      "forks": 4630,
+      "openIssues": 1208,
       "score": 97,
       "category": "coding"
     },
@@ -924,7 +924,7 @@
       "name": "zeroclaw-labs/zeroclaw",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
-      "stars": 32283,
+      "stars": 32291,
       "language": "Rust",
       "topics": [
         "agent",
@@ -936,10 +936,10 @@
         "os",
         "zeroclaw"
       ],
-      "updatedAt": "2026-07-17T07:35:15Z",
+      "updatedAt": "2026-07-18T06:19:32Z",
       "license": "Apache-2.0",
-      "forks": 4807,
-      "openIssues": 544,
+      "forks": 4808,
+      "openIssues": 539,
       "score": 97,
       "category": "general"
     },
@@ -947,7 +947,7 @@
       "name": "activepieces/activepieces",
       "url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23300,
+      "stars": 23312,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -964,10 +964,10 @@
         "workflow-automation",
         "workflows"
       ],
-      "updatedAt": "2026-07-16T19:14:53Z",
+      "updatedAt": "2026-07-17T20:21:44Z",
       "license": "NOASSERTION",
-      "forks": 3923,
-      "openIssues": 448,
+      "forks": 3927,
+      "openIssues": 456,
       "score": 97,
       "category": "orchestration"
     },
@@ -975,7 +975,7 @@
       "name": "elizaOS/eliza",
       "url": "https://github.com/elizaOS/eliza",
       "description": "Open source agentic operating system",
-      "stars": 18755,
+      "stars": 18757,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -994,10 +994,10 @@
         "swarm",
         "telegram"
       ],
-      "updatedAt": "2026-07-17T07:58:22Z",
+      "updatedAt": "2026-07-18T07:59:22Z",
       "license": "MIT",
-      "forks": 5577,
-      "openIssues": 268,
+      "forks": 5583,
+      "openIssues": 253,
       "score": 97,
       "category": "rag"
     },
@@ -1005,7 +1005,7 @@
       "name": "vllm-project/semantic-router",
       "url": "https://github.com/vllm-project/semantic-router",
       "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-      "stars": 4986,
+      "stars": 4989,
       "language": "Go",
       "topics": [
         "ai-gateway",
@@ -1027,10 +1027,10 @@
         "semantic-router",
         "vllm"
       ],
-      "updatedAt": "2026-07-17T07:28:12Z",
+      "updatedAt": "2026-07-18T00:21:10Z",
       "license": "Apache-2.0",
-      "forks": 758,
-      "openIssues": 253,
+      "forks": 760,
+      "openIssues": 247,
       "score": 97,
       "category": "coding"
     },
@@ -1067,7 +1067,7 @@
       "name": "FoundationAgents/MetaGPT",
       "url": "https://github.com/FoundationAgents/MetaGPT",
       "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
-      "stars": 69410,
+      "stars": 69420,
       "language": "Python",
       "topics": [
         "agent",
@@ -1078,7 +1078,7 @@
       ],
       "updatedAt": "2026-01-21T10:12:33Z",
       "license": "MIT",
-      "forks": 8849,
+      "forks": 8851,
       "openIssues": 138,
       "score": 95,
       "category": "multi-agent"
@@ -1087,7 +1087,7 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 256241,
+      "stars": 256789,
       "language": "Shell",
       "topics": [
         "ai",
@@ -1101,8 +1101,8 @@
       ],
       "updatedAt": "2026-07-17T00:52:29Z",
       "license": "MIT",
-      "forks": 22814,
-      "openIssues": 318,
+      "forks": 22867,
+      "openIssues": 320,
       "score": 94,
       "category": "general"
     },
@@ -1110,7 +1110,7 @@
       "name": "mastra-ai/mastra",
       "url": "https://github.com/mastra-ai/mastra",
       "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-      "stars": 26271,
+      "stars": 26305,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -1127,10 +1127,10 @@
         "typescript",
         "workflows"
       ],
-      "updatedAt": "2026-07-17T08:19:00Z",
+      "updatedAt": "2026-07-18T06:54:47Z",
       "license": "NOASSERTION",
-      "forks": 2446,
-      "openIssues": 431,
+      "forks": 2460,
+      "openIssues": 418,
       "score": 94,
       "category": "orchestration"
     },
@@ -1138,7 +1138,7 @@
       "name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
       "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-      "stars": 28354,
+      "stars": 28376,
       "language": "Python",
       "topics": [
         "agent",
@@ -1153,10 +1153,10 @@
         "search",
         "webscraping"
       ],
-      "updatedAt": "2026-07-16T19:34:52Z",
+      "updatedAt": "2026-07-18T07:56:55Z",
       "license": "Apache-2.0",
-      "forks": 3831,
-      "openIssues": 82,
+      "forks": 3833,
+      "openIssues": 88,
       "score": 94,
       "category": "general"
     },
@@ -1164,7 +1164,7 @@
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 67922,
+      "stars": 68010,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -1187,8 +1187,8 @@
       ],
       "updatedAt": "2026-05-22T03:17:49Z",
       "license": "Unknown",
-      "forks": 7688,
-      "openIssues": 1037,
+      "forks": 7704,
+      "openIssues": 1043,
       "score": 94,
       "category": "orchestration"
     },
@@ -1196,7 +1196,7 @@
       "name": "apache/airflow",
       "url": "https://github.com/apache/airflow",
       "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": 46151,
+      "stars": 46157,
       "language": "Python",
       "topics": [
         "airflow",
@@ -1220,10 +1220,10 @@
         "workflow-engine",
         "workflow-orchestration"
       ],
-      "updatedAt": "2026-07-17T06:57:04Z",
+      "updatedAt": "2026-07-17T20:00:11Z",
       "license": "Apache-2.0",
-      "forks": 17392,
-      "openIssues": 1736,
+      "forks": 17398,
+      "openIssues": 1772,
       "score": 94,
       "category": "orchestration"
     },
@@ -1231,7 +1231,7 @@
       "name": "enescingoz/awesome-n8n-templates",
       "url": "https://github.com/enescingoz/awesome-n8n-templates",
       "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
-      "stars": 23933,
+      "stars": 23960,
       "language": "Unknown",
       "topics": [
         "ai-agents",
@@ -1251,10 +1251,10 @@
         "telegram-bot",
         "workflow-automation"
       ],
-      "updatedAt": "2026-07-16T14:38:07Z",
+      "updatedAt": "2026-07-17T10:32:24Z",
       "license": "NOASSERTION",
-      "forks": 6258,
-      "openIssues": 2,
+      "forks": 6260,
+      "openIssues": 0,
       "score": 94,
       "category": "rag"
     },
@@ -1262,7 +1262,7 @@
       "name": "Skyvern-AI/skyvern",
       "url": "https://github.com/Skyvern-AI/skyvern",
       "description": "Automate browser based workflows with AI",
-      "stars": 22458,
+      "stars": 22490,
       "language": "Python",
       "topics": [
         "ai",
@@ -1282,9 +1282,9 @@
         "vision",
         "workflow"
       ],
-      "updatedAt": "2026-07-17T08:17:40Z",
+      "updatedAt": "2026-07-18T05:29:09Z",
       "license": "AGPL-3.0",
-      "forks": 2098,
+      "forks": 2102,
       "openIssues": 219,
       "score": 94,
       "category": "orchestration"
@@ -1293,7 +1293,7 @@
       "name": "Avaiga/taipy",
       "url": "https://github.com/Avaiga/taipy",
       "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
-      "stars": 19270,
+      "stars": 19278,
       "language": "Python",
       "topics": [
         "automation",
@@ -1319,7 +1319,7 @@
       ],
       "updatedAt": "2026-06-21T18:24:48Z",
       "license": "Apache-2.0",
-      "forks": 1983,
+      "forks": 1985,
       "openIssues": 215,
       "score": 94,
       "category": "orchestration"
@@ -1328,7 +1328,7 @@
       "name": "triggerdotdev/trigger.dev",
       "url": "https://github.com/triggerdotdev/trigger.dev",
       "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
-      "stars": 15677,
+      "stars": 15678,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1345,10 +1345,10 @@
         "workflow-automation",
         "workflows"
       ],
-      "updatedAt": "2026-07-16T15:47:07Z",
+      "updatedAt": "2026-07-17T15:56:58Z",
       "license": "Apache-2.0",
-      "forks": 1356,
-      "openIssues": 393,
+      "forks": 1359,
+      "openIssues": 390,
       "score": 94,
       "category": "orchestration"
     },
@@ -1356,7 +1356,7 @@
       "name": "josStorer/RWKV-Runner",
       "url": "https://github.com/josStorer/RWKV-Runner",
       "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
-      "stars": 6430,
+      "stars": 6432,
       "language": "TypeScript",
       "topics": [
         "api",
@@ -1378,7 +1378,7 @@
       "name": "nanobrowser/nanobrowser",
       "url": "https://github.com/nanobrowser/nanobrowser",
       "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
-      "stars": 13473,
+      "stars": 13476,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1404,7 +1404,7 @@
       ],
       "updatedAt": "2025-11-24T11:10:03Z",
       "license": "Apache-2.0",
-      "forks": 1413,
+      "forks": 1414,
       "openIssues": 69,
       "score": 93,
       "category": "orchestration"
@@ -1413,7 +1413,7 @@
       "name": "coaidev/coai",
       "url": "https://github.com/coaidev/coai",
       "description": "🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription Billing, All File Parsing, Web Search, Built-in Model Cache.",
-      "stars": 9238,
+      "stars": 9240,
       "language": "TypeScript",
       "topics": [
         "ai-gateway",
@@ -1439,7 +1439,7 @@
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 35792,
+      "stars": 36009,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1454,10 +1454,10 @@
         "typescript",
         "video"
       ],
-      "updatedAt": "2026-07-17T08:18:31Z",
+      "updatedAt": "2026-07-18T06:53:04Z",
       "license": "Apache-2.0",
-      "forks": 3355,
-      "openIssues": 183,
+      "forks": 3377,
+      "openIssues": 179,
       "score": 91,
       "category": "general"
     },
@@ -1465,7 +1465,7 @@
       "name": "humanlayer/12-factor-agents",
       "url": "https://github.com/humanlayer/12-factor-agents",
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "stars": 24359,
+      "stars": 24377,
       "language": "TypeScript",
       "topics": [
         "12-factor",
@@ -1482,7 +1482,7 @@
       ],
       "updatedAt": "2025-09-21T14:37:40Z",
       "license": "NOASSERTION",
-      "forks": 1848,
+      "forks": 1849,
       "openIssues": 26,
       "score": 91,
       "category": "rag"
