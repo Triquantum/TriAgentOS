@@ -618,39 +618,39 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-07-20** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-07-21** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 142.1k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 55.8k | `orchestration` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 142.2k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 55.9k | `orchestration` | 100/100 |
 | 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 37.7k | `rag` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 36.8k | `general` | 100/100 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 149.4k | `rag` | 100/100 |
-| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.0k | `rag` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 37.3k | `general` | 100/100 |
+| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 149.6k | `rag` | 100/100 |
+| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.0k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 17.9k | `orchestration` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 18.0k | `orchestration` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.7k | `orchestration` | 100/100 |
 | 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.3k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐142.1k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐142.2k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐37.7k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐149.4k — Production-ready platform for agentic workflow development.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐149.6k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐55.8k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐17.9k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐55.9k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐18.0k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.7k — Open-source AI coworker, with memory
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐36.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐11.7k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐59.8k — A programming framework for agentic AI
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐37.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐11.8k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐59.9k — A programming framework for agentic AI
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.3k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
@@ -661,13 +661,13 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 **💻 Coding**
 - [**OthmanAdi/planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐25.6k — Persistent file-based planning for AI coding agents and long-running agentic tas
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐20.8k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐28.9k — A list of AI autonomous agents
+- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.0k — A list of AI autonomous agents
 
 **🐝 Multi-agent**
 - [**camel-ai/camel**](https://github.com/camel-ai/camel) ⭐17.4k — 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law 
 
 **🖥️ Local-models**
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.6k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.7k — The agent-native LLM router for autonomous agents. 55+ models (8 free), <1ms loc
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
