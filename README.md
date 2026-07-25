@@ -618,39 +618,39 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-07-24** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-07-25** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 142.5k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 142.6k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 56.1k | `orchestration` | 100/100 |
-| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 38.0k | `rag` | 100/100 |
+| 3 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 38.1k | `rag` | 100/100 |
 | 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 38.0k | `general` | 100/100 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 150.1k | `rag` | 100/100 |
+| 5 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 150.2k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.0k | `rag` | 100/100 |
 | 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 18.3k | `orchestration` | 100/100 |
-| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.7k | `orchestration` | 100/100 |
+| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 16.8k | `orchestration` | 100/100 |
 | 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.3k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐142.5k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐38.0k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐150.1k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐142.6k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐38.1k — Build resilient agents.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐150.2k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐56.1k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐18.3k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.7k — Open-source AI coworker, with memory
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐16.8k — Open-source AI coworker, with memory
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐38.0k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐12.3k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐59.9k — A programming framework for agentic AI
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐12.5k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐60.0k — A programming framework for agentic AI
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.3k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
