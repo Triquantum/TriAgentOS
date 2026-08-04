@@ -618,48 +618,48 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-08-03** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-08-04** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 143.3k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 56.5k | `orchestration` | 100/100 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 46.5k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 38.7k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 38.5k | `general` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 151.2k | `rag` | 100/100 |
-| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.2k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 143.4k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 56.6k | `orchestration` | 100/100 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 46.6k | `local-models` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 38.8k | `rag` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 38.6k | `general` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 151.3k | `rag` | 100/100 |
+| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.3k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.1k | `rag` | 100/100 |
-| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 18.7k | `orchestration` | 100/100 |
+| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 18.8k | `orchestration` | 100/100 |
 | 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.0k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐143.3k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐38.7k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐151.2k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐143.4k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐38.8k — Build resilient agents.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐151.3k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐56.5k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐18.7k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐56.6k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐18.8k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐17.0k — Open-source AI coworker, with memory
 
 **🖥️ Local-models**
-- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐46.5k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
+- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐46.6k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.7k — The agent-native LLM router for autonomous agents. 66 models (8 free), <1ms loca
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐38.5k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐13.3k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐38.6k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐13.4k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐5.8k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.3k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐21.5k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐21.6k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.3k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
@@ -667,7 +667,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.0k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.2k — A list of AI autonomous agents
+- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.3k — A list of AI autonomous agents
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.2k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
