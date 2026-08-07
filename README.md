@@ -618,18 +618,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-08-06** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-08-07** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 143.5k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 143.6k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 56.7k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 46.7k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 39.0k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 38.7k | `general` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 151.5k | `rag` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 39.1k | `rag` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 38.8k | `general` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 151.6k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.3k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.1k | `rag` | 100/100 |
 | 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 18.9k | `orchestration` | 100/100 |
@@ -638,9 +638,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐143.5k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐39.0k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐151.5k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐143.6k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐39.1k — Build resilient agents.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐151.6k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐56.7k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
@@ -649,11 +649,11 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🖥️ Local-models**
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐46.7k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.8k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.7k — The agent-native LLM router for autonomous agents. 66 models (8 free), <1ms loca
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐38.7k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐38.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐13.5k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐5.8k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
