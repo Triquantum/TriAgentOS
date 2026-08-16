@@ -618,18 +618,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-08-15** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-08-16** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 144.2k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 144.3k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 57.1k | `orchestration` | 100/100 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.0k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 39.7k | `rag` | 100/100 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.1k | `local-models` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 39.8k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 39.2k | `general` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 152.5k | `rag` | 100/100 |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 152.6k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.4k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.2k | `rag` | 100/100 |
 | 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 19.5k | `orchestration` | 100/100 |
@@ -638,9 +638,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐144.2k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐39.7k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐152.5k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐144.3k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐39.8k — Build resilient agents.
+- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐152.6k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐57.1k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
@@ -648,8 +648,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐17.3k — Open-source AI coworker, with memory
 
 **🖥️ Local-models**
-- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐47.0k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.8k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐47.1k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐26.9k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. 66 models (8 free), <1ms loca
 
 **🤖 General**
@@ -663,7 +663,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.5k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
-- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐7.4k — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — 
+- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐7.6k — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — 
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.1k — An open-source, code-first Python toolkit for building, evaluating, and deployin
