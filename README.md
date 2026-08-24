@@ -618,29 +618,29 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-08-23** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-08-24** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 144.8k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 144.9k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 57.5k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.3k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 40.3k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 39.5k | `general` | 100/100 |
-| 6 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 153.3k | `rag` | 100/100 |
-| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.4k | `rag` | 100/100 |
-| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.3k | `rag` | 100/100 |
-| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 19.8k | `orchestration` | 100/100 |
-| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.4k | `orchestration` | 100/100 |
+| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.4k | `rag` | 100/100 |
+| 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.3k | `rag` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 19.8k | `orchestration` | 100/100 |
+| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.4k | `orchestration` | 100/100 |
+| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.4k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐144.8k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐144.9k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐40.3k — Build resilient agents.
-- [**langgenius/dify**](https://github.com/langgenius/dify) ⭐153.3k — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
+- [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.4k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐57.5k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
@@ -659,6 +659,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.4k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+- [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐10.6k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
 - [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.0k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
