@@ -618,29 +618,29 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-08-25** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-08-26** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 144.9k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.0k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 57.6k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.4k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 40.4k | `rag` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 40.5k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 39.6k | `general` | 100/100 |
-| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.4k | `rag` | 100/100 |
+| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.5k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.3k | `rag` | 100/100 |
 | 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 19.9k | `orchestration` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.4k | `orchestration` | 100/100 |
-| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.4k | `security` | 100/100 |
+| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.5k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐144.9k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐40.4k — Build resilient agents.
-- [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.4k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐145.0k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐40.5k — Build resilient agents.
+- [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.5k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐57.6k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
@@ -650,16 +650,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 **🖥️ Local-models**
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐47.4k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.0k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
-- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐10.8k — Open-source agentic workspace enterprises can make their own. Connect the system
+- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐10.9k — Open-source agentic workspace enterprises can make their own. Connect the system
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐39.6k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐14.5k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
-- [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐5.9k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐14.6k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.0k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **🔐 Security**
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.4k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
-- [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐10.6k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.5k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+- [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐10.7k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
 - [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.0k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
@@ -668,7 +668,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.3k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.7k — A list of AI autonomous agents
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.5k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.6k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
