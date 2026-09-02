@@ -618,16 +618,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-01** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-02** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.4k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 57.9k | `orchestration` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.5k | `rag` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.0k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.6k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 40.8k | `rag` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 40.9k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 39.9k | `general` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.5k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | `rag` | 100/100 |
@@ -638,12 +638,12 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐145.4k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐40.8k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐145.5k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐40.9k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.5k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐57.9k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐58.0k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐20.2k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐17.4k — Open-source AI coworker, with memory
 
@@ -662,7 +662,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.2k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.7k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.8k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.8k — A list of AI autonomous agents
