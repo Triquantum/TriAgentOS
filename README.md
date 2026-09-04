@@ -618,22 +618,22 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-03** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-04** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.6k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.0k | `orchestration` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.1k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.7k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.0k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.0k | `general` | 100/100 |
-| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.6k | `rag` | 100/100 |
-| 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.2k | `orchestration` | 100/100 |
-| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.5k | `orchestration` | 100/100 |
-| 10 | [neuml/txtai](https://github.com/neuml/txtai) | ⭐ 12.9k | `rag` | 100/100 |
+| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 39.4k | `local-models` | 100/100 |
+| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.6k | `rag` | 100/100 |
+| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | `rag` | 100/100 |
+| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.3k | `orchestration` | 100/100 |
+| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 17.5k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
@@ -643,14 +643,14 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.6k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐58.0k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐20.2k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐58.1k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐20.3k — 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐17.5k — Open-source AI coworker, with memory
 
 **🖥️ Local-models**
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐47.7k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
+- [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ⭐39.4k — OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.1k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
-- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐11.1k — Open-source agentic workspace enterprises can make their own. Connect the system
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐40.0k — AI Agent Assistant & development framework that integrates lots of IM platforms,
@@ -661,12 +661,12 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.8k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
-- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.8k — A list of AI autonomous agents
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.4k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐29.9k — A list of AI autonomous agents
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.7k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🔐 Security**
 - [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.3k — Fully autonomous AI Agents system capable of performing complex penetration test
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.8k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
