@@ -618,18 +618,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-05** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-06** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.7k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 145.8k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.1k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 47.7k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.1k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.0k | `general` | 100/100 |
-| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 39.4k | `local-models` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.1k | `general` | 100/100 |
+| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 39.5k | `local-models` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.6k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.4k | `rag` | 100/100 |
 | 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.3k | `orchestration` | 100/100 |
@@ -638,7 +638,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐145.7k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐145.8k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐41.1k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.6k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
@@ -649,12 +649,12 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🖥️ Local-models**
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐47.7k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
-- [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ⭐39.4k — OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.1k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ⭐39.5k — OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first
+- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.2k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐40.0k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐15.1k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐40.1k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐15.2k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.0k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **🧠 Memory**
@@ -666,7 +666,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.7k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🔐 Security**
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.3k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐22.4k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
