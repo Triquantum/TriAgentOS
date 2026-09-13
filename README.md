@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-12** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-13** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -626,8 +626,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146.2k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.4k | `orchestration` | 100/100 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.0k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.5k | `rag` | 100/100 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.1k | `local-models` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.6k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.4k | `general` | 100/100 |
 | 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 39.7k | `local-models` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.6k | `rag` | 100/100 |
@@ -639,7 +639,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐146.2k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐41.5k — Build resilient agents.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐41.6k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.6k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
@@ -648,7 +648,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐17.5k — Open-source AI coworker, with memory
 
 **🖥️ Local-models**
-- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.0k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
+- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.1k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ⭐39.7k — OpenHuman is an open source agent harness with local-first memory, agent orchest
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.2k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 
@@ -659,7 +659,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.9k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐23.0k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐23.7k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐46.9k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
