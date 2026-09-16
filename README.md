@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-15** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-16** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -627,8 +627,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146.4k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.6k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.2k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.7k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.5k | `general` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 41.8k | `rag` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 40.6k | `general` | 100/100 |
 | 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 39.8k | `local-models` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.7k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.5k | `rag` | 100/100 |
@@ -639,7 +639,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐146.4k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐41.7k — Build resilient agents.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐41.8k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.7k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
@@ -653,19 +653,18 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.2k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐40.5k — AI Agent Assistant & development framework that integrates lots of IM platforms,
-- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐15.6k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐40.6k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) ⭐15.7k — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.0k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.9k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐24.5k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.0k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.5k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.6k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.0k — A list of AI autonomous agents
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.8k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
