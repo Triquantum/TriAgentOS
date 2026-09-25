@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-24** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-25** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -626,20 +626,20 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.0k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.0k | `orchestration` | 100/100 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.5k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.2k | `rag` | 100/100 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.6k | `local-models` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.3k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.0k | `general` | 100/100 |
-| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 40.1k | `local-models` | 100/100 |
-| 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.7k | `rag` | 100/100 |
-| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | `rag` | 100/100 |
-| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.9k | `orchestration` | 100/100 |
-| 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 18.0k | `orchestration` | 100/100 |
+| 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.7k | `rag` | 100/100 |
+| 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | `rag` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.9k | `orchestration` | 100/100 |
+| 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 18.0k | `orchestration` | 100/100 |
+| 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.9k | `security` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.0k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐42.2k — Build resilient agents.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐42.3k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.7k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
@@ -648,9 +648,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.0k — AI coworker with memory and collaboration
 
 **🖥️ Local-models**
-- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.5k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
-- [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ⭐40.1k — OpenHuman is an open source agent harness with local-first memory, agent orchest
+- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.6k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.3k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
+- [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. Every frontier model behind o
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.0k — AI Agent Assistant & development framework that integrates lots of IM platforms,
@@ -665,8 +665,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.6k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐13.9k — Open-source, secure environment with real-world tools for enterprise-grade agent
-- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.1k — A list of AI autonomous agents
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.0k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.2k — A list of AI autonomous agents
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
 
