@@ -618,20 +618,20 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-26** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-27** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.1k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.0k | `orchestration` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.1k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.6k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.3k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.0k | `general` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.1k | `general` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.7k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 20.9k | `orchestration` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 21.0k | `orchestration` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 18.0k | `orchestration` | 100/100 |
 | 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 16.9k | `security` | 100/100 |
 
@@ -643,8 +643,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.7k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐59.0k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐20.9k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐59.1k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐21.0k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.0k — AI coworker with memory and collaboration
 
 **🖥️ Local-models**
@@ -653,7 +653,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. Every frontier model behind o
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.0k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.1k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.1k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 - [**vllm-project/semantic-router**](https://github.com/vllm-project/semantic-router) ⭐5.9k — A programmable Mixture-of-Models router for heterogeneous LLM inference
 
@@ -664,7 +664,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.1k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.6k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.0k — Open-source, secure environment with real-world tools for enterprise-grade agent
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.2k — A list of AI autonomous agents
 
