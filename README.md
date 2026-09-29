@@ -618,17 +618,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-09-28** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-09-29** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.2k | `rag` | 100/100 |
-| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.1k | `orchestration` | 100/100 |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.6k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.4k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.1k | `general` | 100/100 |
+| 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.2k | `orchestration` | 100/100 |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.7k | `local-models` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.5k | `rag` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.2k | `general` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.8k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | `rag` | 100/100 |
 | 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 21.0k | `orchestration` | 100/100 |
@@ -639,21 +639,21 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔍 Rag**
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.2k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐42.4k — Build resilient agents.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐42.5k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.8k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐59.1k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐59.2k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐21.0k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.0k — AI coworker with memory and collaboration
 
 **🖥️ Local-models**
-- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.6k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
+- [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐48.7k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.4k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. Every frontier model behind o
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.1k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.1k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 - [**vllm-project/semantic-router**](https://github.com/vllm-project/semantic-router) ⭐6.0k — A programmable Mixture-of-Models router for heterogeneous LLM inference
 
@@ -661,7 +661,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐16.9k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.1k — Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.2k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
