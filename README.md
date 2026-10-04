@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-10-03** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-10-04** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -628,10 +628,10 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.3k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.8k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.7k | `rag` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.3k | `general` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.4k | `general` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.8k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.6k | `rag` | 100/100 |
-| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 21.0k | `orchestration` | 100/100 |
+| 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 21.1k | `orchestration` | 100/100 |
 | 9 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 18.0k | `orchestration` | 100/100 |
 | 10 | [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 17.0k | `security` | 100/100 |
 
@@ -644,7 +644,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **⚡ Orchestration**
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐59.3k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐21.0k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐21.1k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.0k — AI coworker with memory and collaboration
 
 **🖥️ Local-models**
@@ -653,9 +653,9 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. Every frontier model behind o
 
 **🤖 General**
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.4k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.1k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
-- [**vllm-project/semantic-router**](https://github.com/vllm-project/semantic-router) ⭐6.0k — A programmable Mixture-of-Models router for heterogeneous LLM inference
+- [**kortix-ai/suna**](https://github.com/kortix-ai/suna) ⭐20.2k — The open-source AI Operating System
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
@@ -665,7 +665,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.1k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.2k — Open-source, secure environment with real-world tools for enterprise-grade agent
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.3k — A list of AI autonomous agents
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
