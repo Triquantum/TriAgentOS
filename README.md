@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-10-06** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-10-07** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -661,7 +661,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.2k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.3k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐21.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
