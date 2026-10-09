@@ -618,13 +618,13 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-10-08** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-10-09** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.6k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.4k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.5k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 48.9k | `local-models` | 100/100 |
 | 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 42.9k | `rag` | 100/100 |
@@ -638,7 +638,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.6k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.4k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐42.9k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.8k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
@@ -664,8 +664,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.3k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.7k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.2k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐21.8k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.3k — Open-source, secure environment with real-world tools for enterprise-grade agent
 - [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐30.3k — A list of AI autonomous agents
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
