@@ -618,16 +618,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-10-12** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-10-13** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.7k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.8k | `rag` | 100/100 |
 | 2 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.6k | `orchestration` | 100/100 |
 | 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | ⭐ 49.0k | `local-models` | 100/100 |
-| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 43.1k | `rag` | 100/100 |
+| 4 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 43.2k | `rag` | 100/100 |
 | 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 41.8k | `general` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 29.8k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.7k | `rag` | 100/100 |
@@ -638,8 +638,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.7k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐43.1k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐147.8k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐43.2k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐29.8k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **⚡ Orchestration**
@@ -649,8 +649,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🖥️ Local-models**
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐49.0k — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
-- [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.5k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.6k — The agent-native LLM router for autonomous agents. Every frontier model behind o
+- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐11.5k — Open-source agentic workspace enterprises can make their own. Connect the system
 
 **🤖 General**
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐41.8k — AI Agent Assistant & development framework that integrates lots of IM platforms,
@@ -659,6 +659,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔐 Security**
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐27.8k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.4k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
