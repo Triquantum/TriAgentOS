@@ -618,17 +618,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-06** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-07** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.1k | `rag` | 100/100 |
-| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 79.9k | `memory` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.2k | `rag` | 100/100 |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 80.3k | `memory` | 100/100 |
 | 3 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.7k | `general` | 100/100 |
 | 4 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.6k | `orchestration` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 46.2k | `general` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 46.3k | `general` | 100/100 |
 | 6 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 44.6k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.0k | `rag` | 100/100 |
 | 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.9k | `rag` | 100/100 |
@@ -638,17 +638,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.1k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.2k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐44.6k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐30.0k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **🧠 Memory**
-- [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) ⭐79.9k — Write HTML. Render video. Built for agents.
+- [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) ⭐80.3k — Write HTML. Render video. Built for agents.
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.8k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **🤖 General**
 - [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐61.7k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐46.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐46.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.2k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **⚡ Orchestration**
@@ -658,10 +658,10 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐22.1k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.7k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.8k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🔐 Security**
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐33.5k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐33.6k — Fully autonomous AI Agents system capable of performing complex penetration test
 
 **🖥️ Local-models**
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.6k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
