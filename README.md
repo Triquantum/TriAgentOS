@@ -618,50 +618,50 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-08** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-09** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.2k | `rag` | 100/100 |
-| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 80.8k | `memory` | 100/100 |
-| 3 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.7k | `general` | 100/100 |
-| 4 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.6k | `orchestration` | 100/100 |
-| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 46.4k | `general` | 100/100 |
-| 6 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 44.6k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.3k | `rag` | 100/100 |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 81.5k | `memory` | 100/100 |
+| 3 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.8k | `general` | 100/100 |
+| 4 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.7k | `orchestration` | 100/100 |
+| 5 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 46.5k | `general` | 100/100 |
+| 6 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 44.7k | `rag` | 100/100 |
 | 7 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.0k | `rag` | 100/100 |
-| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 26.9k | `rag` | 100/100 |
-| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 21.9k | `orchestration` | 100/100 |
+| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 27.0k | `rag` | 100/100 |
+| 9 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 22.0k | `orchestration` | 100/100 |
 | 10 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ⭐ 18.1k | `orchestration` | 100/100 |
 
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.2k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐44.6k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.3k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐44.7k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐30.0k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **🧠 Memory**
-- [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) ⭐80.8k — Write HTML. Render video. Built for agents.
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.8k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
+- [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) ⭐81.5k — Write HTML. Render video. Built for agents.
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐47.9k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **🤖 General**
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐61.7k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐46.4k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐61.8k — A programming framework for agentic AI
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐46.5k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**netease-youdao/LobsterAI**](https://github.com/netease-youdao/LobsterAI) ⭐6.2k — Open-source, desktop-grade AI agent that gets real work done — data analysis, sl
 
 **⚡ Orchestration**
-- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐60.6k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
-- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐21.9k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
+- [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) ⭐60.7k — Framework for orchestrating role-playing, autonomous AI agents. By fostering col
+- [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐22.0k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.1k — AI coworker with memory and collaboration
 
 **💻 Coding**
-- [**google/adk-python**](https://github.com/google/adk-python) ⭐22.1k — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [**google/adk-python**](https://github.com/google/adk-python) ⭐22.2k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.8k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🔐 Security**
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐33.7k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐33.8k — Fully autonomous AI Agents system capable of performing complex penetration test
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.0k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🖥️ Local-models**
