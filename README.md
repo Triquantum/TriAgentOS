@@ -618,16 +618,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-19** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-20** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.9k | `rag` | 100/100 |
-| 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.9k | `general` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 150.0k | `rag` | 100/100 |
+| 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 62.0k | `general` | 100/100 |
 | 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 61.1k | `orchestration` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.2k | `general` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.3k | `general` | 100/100 |
 | 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.2k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | `rag` | 100/100 |
@@ -638,13 +638,13 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.9k — The agent engineering platform.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐150.0k — The agent engineering platform.
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐45.2k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐30.1k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **🤖 General**
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐61.9k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.2k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐62.0k — A programming framework for agentic AI
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia) ⭐21.8k — Eclipse Theia is an open-source platform for building custom IDEs and tools for 
 
 **⚡ Orchestration**
@@ -652,17 +652,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐22.2k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.3k — Your agent team, in one group chat.
 
+**🔐 Security**
+- [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐11.8k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.7k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
+
 **🧠 Memory**
 - [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐48.0k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐22.3k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.9k — Open-source, secure environment with real-world tools for enterprise-grade agent
-- [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐31.0k — A list of AI autonomous agents
-
-**🔐 Security**
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.6k — Fully autonomous AI Agents system capable of performing complex penetration test
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🖥️ Local-models**
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
