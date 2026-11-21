@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-20** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-21** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -662,7 +662,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐22.3k — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐14.9k — Open-source, secure environment with real-world tools for enterprise-grade agent
+- [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐15.0k — Open-source, secure environment with real-world tools for enterprise-grade agent
 
 **🖥️ Local-models**
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
