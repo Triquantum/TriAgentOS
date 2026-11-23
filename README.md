@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-22** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-23** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -627,7 +627,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 150.0k | `rag` | 100/100 |
 | 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 62.0k | `general` | 100/100 |
 | 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 61.2k | `orchestration` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.3k | `general` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.4k | `general` | 100/100 |
 | 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.3k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | `rag` | 100/100 |
@@ -644,7 +644,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🤖 General**
 - [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐62.0k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.3k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.4k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia) ⭐21.8k — Eclipse Theia is an open-source platform for building custom IDEs and tools for 
 
 **⚡ Orchestration**
@@ -654,7 +654,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🔐 Security**
 - [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐11.8k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.8k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.9k — Fully autonomous AI Agents system capable of performing complex penetration test
 - [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🧠 Memory**
