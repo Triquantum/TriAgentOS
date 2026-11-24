@@ -618,17 +618,17 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-23** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-24** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
 | Rank | Repository | Stars | Category | Score |
 |------|-----------|-------|----------|-------|
-| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 150.0k | `rag` | 100/100 |
+| 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.9k | `rag` | 100/100 |
 | 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 62.0k | `general` | 100/100 |
 | 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 61.2k | `orchestration` | 100/100 |
 | 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.4k | `general` | 100/100 |
-| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.3k | `rag` | 100/100 |
+| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.4k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | `rag` | 100/100 |
 | 8 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | ⭐ 22.3k | `orchestration` | 100/100 |
@@ -638,8 +638,8 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 ### 📂 By Category
 
 **🔍 Rag**
-- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐150.0k — The agent engineering platform.
-- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐45.3k — Build resilient agents.
+- [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) ⭐149.9k — The agent engineering platform.
+- [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) ⭐45.4k — Build resilient agents.
 - [**labring/FastGPT**](https://github.com/labring/FastGPT) ⭐30.1k — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive 
 
 **🤖 General**
@@ -652,17 +652,16 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 - [**jnMetaCode/agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) ⭐22.3k — 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20
 - [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) ⭐18.3k — Your agent team, in one group chat.
 
-**🔐 Security**
-- [**cobusgreyling/loop-engineering**](https://github.com/cobusgreyling/loop-engineering) ⭐11.8k — Practical patterns, starters & CLI tools for loop engineering with AI coding age
-- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.9k — Fully autonomous AI Agents system capable of performing complex penetration test
-- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
-
 **🧠 Memory**
-- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐48.0k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
+- [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) ⭐48.1k — Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 
 **💻 Coding**
 - [**google/adk-python**](https://github.com/google/adk-python) ⭐22.3k — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) ⭐15.0k — Open-source, secure environment with real-world tools for enterprise-grade agent
+
+**🔐 Security**
+- [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) ⭐34.9k — Fully autonomous AI Agents system capable of performing complex penetration test
+- [**cft0808/edict**](https://github.com/cft0808/edict) ⭐17.1k — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents 
 
 **🖥️ Local-models**
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
