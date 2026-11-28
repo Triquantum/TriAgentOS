@@ -618,7 +618,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 <!-- TRIAGENTOS_DAILY_DISCOVERY_START -->
 ## 🔭 AI Ecosystem Discovery
 
-*Auto-updated daily · Last scan: **2026-11-27** · Found **50+ repos***
+*Auto-updated daily · Last scan: **2026-11-28** · Found **50+ repos***
 
 ### 🏆 Top 10 AI Repos Right Now
 
@@ -627,7 +627,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 | 1 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 150.1k | `rag` | 100/100 |
 | 2 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 62.0k | `general` | 100/100 |
 | 3 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 61.3k | `orchestration` | 100/100 |
-| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.6k | `general` | 100/100 |
+| 4 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 47.7k | `general` | 100/100 |
 | 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.5k | `rag` | 100/100 |
 | 6 | [labring/FastGPT](https://github.com/labring/FastGPT) | ⭐ 30.1k | `rag` | 100/100 |
 | 7 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ⭐ 27.1k | `rag` | 100/100 |
@@ -644,7 +644,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🤖 General**
 - [**microsoft/autogen**](https://github.com/microsoft/autogen) ⭐62.0k — A programming framework for agentic AI
-- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.6k — AI Agent Assistant & development framework that integrates lots of IM platforms,
+- [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ⭐47.7k — AI Agent Assistant & development framework that integrates lots of IM platforms,
 - [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia) ⭐21.8k — Eclipse Theia is an open-source platform for building custom IDEs and tools for 
 
 **⚡ Orchestration**
@@ -664,7 +664,7 @@ See [ROADMAP.md](ROADMAP.md) for full details.
 
 **🖥️ Local-models**
 - [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐27.7k — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
-- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐11.4k — Open-source agentic workspace enterprises can make their own. Connect the system
+- [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) ⭐11.3k — Open-source agentic workspace enterprises can make their own. Connect the system
 - [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) ⭐6.7k — The agent-native LLM router for autonomous agents. Every frontier model behind o
 
 > Run `tri discover` to refresh · Full data: [`registry/repos.json`](registry/repos.json)
